@@ -1,0 +1,1586 @@
+year,make,vehicle_class,drive,motor_kw,n_motors,charge_time_240v_hr,kwh_per_100km,range_km
+2011,Nissan,Midsize Cars,Front-Wheel Drive,80.0,1,7.0,21.13,117.0
+2011,smart,Two Seaters,Rear-Wheel Drive,30.0,1,8.0,24.23,101.0
+2011,smart,Two Seaters,Rear-Wheel Drive,30.0,1,8.0,24.23,101.0
+2012,Mitsubishi,Subcompact Cars,Rear-Wheel Drive,49.0,1,7.0,18.64,100.0
+2012,Azure Dynamics,Special Purpose Vehicle 2WD,Front-Wheel Drive,52.0,1,8.0,33.55,90.0
+2012,Nissan,Midsize Cars,Front-Wheel Drive,80.0,1,7.0,21.13,117.0
+2011,BMW,Subcompact Cars,Rear-Wheel Drive,125.0,1,5.0,20.51,151.0
+2012,CODA Automotive,Subcompact Cars,Front-Wheel Drive,100.0,1,6.0,28.58,142.0
+2012,Ford,Compact Cars,Front-Wheel Drive,107.0,1,4.0,19.88,122.0
+2012,Tesla,Large Cars,Rear-Wheel Drive,260.0,1,12.0,23.61,426.0
+2013,Ford,Compact Cars,Front-Wheel Drive,107.0,1,4.0,19.88,122.0
+2013,Honda,Small Station Wagons,Front-Wheel Drive,92.0,1,4.0,18.02,132.0
+2013,smart,Two Seaters,Rear-Wheel Drive,55.0,1,6.0,19.88,109.0
+2013,smart,Two Seaters,Rear-Wheel Drive,55.0,1,6.0,19.88,109.0
+2013,Scion,Minicompact Cars,Front-Wheel Drive,168.0,1,4.0,17.4,61.0
+2012,Toyota,Sport Utility Vehicle - 2WD,Front-Wheel Drive,115.0,1,6.0,27.34,166.0
+2013,CODA Automotive,Subcompact Cars,Front-Wheel Drive,100.0,1,6.0,28.58,142.0
+2013,Mitsubishi,Subcompact Cars,Rear-Wheel Drive,49.0,1,7.0,18.64,100.0
+2013,Tesla,Large Cars,Rear-Wheel Drive,225.0,1,10.0,21.75,335.0
+2013,Tesla,Large Cars,Rear-Wheel Drive,270.0,1,12.0,23.61,426.0
+2012,BYD,Sport Utility Vehicle - 2WD,Front-Wheel Drive,75.0,1,6.0,33.55,196.0
+2013,Fiat,Minicompact Cars,Front-Wheel Drive,82.0,1,4.0,18.02,140.0
+2013,Toyota,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,115.0,1,6.0,27.34,166.0
+2013,Nissan,Midsize Cars,Front-Wheel Drive,80.0,1,7.0,18.02,121.0
+2013,Tesla,Large Cars,Rear-Wheel Drive,225.0,1,6.0,22.37,224.0
+2014,Chevrolet,Subcompact Cars,Front-Wheel Drive,104.0,1,7.0,17.4,132.0
+2014,Honda,Small Station Wagons,Front-Wheel Drive,92.0,1,4.0,18.02,132.0
+2014,Ford,Compact Cars,Front-Wheel Drive,107.0,1,3.6,19.88,122.0
+2014,Fiat,Minicompact Cars,Front-Wheel Drive,82.0,1,4.0,18.02,140.0
+2014,smart,Two Seaters,Rear-Wheel Drive,55.0,1,6.0,19.88,109.0
+2014,smart,Two Seaters,Rear-Wheel Drive,55.0,1,6.0,19.88,109.0
+2014,Toyota,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,115.0,1,6.0,27.34,166.0
+2014,Nissan,Midsize Cars,Front-Wheel Drive,80.0,1,8.0,18.64,135.0
+2014,Tesla,Large Cars,Rear-Wheel Drive,270.0,1,12.0,23.61,426.0
+2014,Tesla,Large Cars,Rear-Wheel Drive,225.0,1,10.0,21.75,335.0
+2014,BYD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,75.0,1,6.0,33.55,204.0
+2013,BYD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,75.0,1,6.0,33.55,204.0
+2014,Mitsubishi,Subcompact Cars,Rear-Wheel Drive,49.0,1,7.0,18.64,100.0
+2015,Nissan,Midsize Cars,Front-Wheel Drive,80.0,1,8.0,18.41,135.0
+2015,Chevrolet,Subcompact Cars,Front-Wheel Drive,104.0,1,7.0,17.61,132.0
+2015,Fiat,Minicompact Cars,Front-Wheel Drive,82.0,1,4.0,18.13,140.0
+2014,BMW,Subcompact Cars,Rear-Wheel Drive,125.0,1,4.0,16.78,130.0
+2014,Mercedes-Benz,Midsize Cars,Front-Wheel Drive,132.0,1,3.5,24.85,140.0
+2015,Kia,Small Station Wagons,Front-Wheel Drive,81.0,1,4.0,19.87,150.0
+2015,Volkswagen,Compact Cars,Front-Wheel Drive,85.0,1,4.0,18.12,134.0
+2015,smart,Two Seaters,Rear-Wheel Drive,55.0,1,6.0,19.58,109.0
+2015,smart,Two Seaters,Rear-Wheel Drive,55.0,1,6.0,19.58,109.0
+2015,Mercedes-Benz,Midsize Cars,Front-Wheel Drive,132.0,1,3.5,24.85,140.0
+2015,Ford,Compact Cars,Front-Wheel Drive,107.0,1,3.6,19.88,122.0
+2015,Tesla,Large Cars,Rear-Wheel Drive,270.0,1,12.0,23.61,426.0
+2014,Tesla,Large Cars,4-Wheel Drive,530.0,2,12.0,23.61,389.0
+2015,Tesla,Large Cars,All-Wheel Drive,514.0,2,12.0,22.37,407.0
+2015,Tesla,Large Cars,All-Wheel Drive,280.0,2,12.0,21.13,435.0
+2015,BMW,Subcompact Cars,Rear-Wheel Drive,125.0,1,4.0,16.78,130.0
+2015,Tesla,Large Cars,Rear-Wheel Drive,225.0,1,10.0,21.75,335.0
+2016,Mitsubishi,Subcompact Cars,Rear-Wheel Drive,49.0,1,7.0,18.64,100.0
+2015,Tesla,Large Cars,All-Wheel Drive,280.0,2,12.0,20.51,386.0
+2016,Kia,Small Station Wagons,Front-Wheel Drive,81.0,1,4.0,19.87,150.0
+2015,Tesla,Large Cars,All-Wheel Drive,280.0,2,12.0,21.13,435.0
+2015,Tesla,Large Cars,All-Wheel Drive,514.0,2,12.0,22.37,407.0
+2016,Volkswagen,Compact Cars,Front-Wheel Drive,85.0,1,3.7,18.13,134.0
+2016,smart,Two Seaters,Rear-Wheel Drive,55.0,1,6.0,19.58,109.0
+2016,smart,Two Seaters,Rear-Wheel Drive,55.0,1,6.0,19.58,109.0
+2016,Ford,Compact Cars,Front-Wheel Drive,107.0,1,3.6,19.88,122.0
+2016,Tesla,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,386.0,2,12.0,22.99,414.0
+2016,Tesla,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,568.0,2,12.0,23.61,402.0
+2016,Chevrolet,Subcompact Cars,Front-Wheel Drive,105.0,1,7.0,17.61,132.0
+2016,Mercedes-Benz,Midsize Cars,Front-Wheel Drive,132.0,1,3.5,25.0,140.0
+2016,Nissan,Midsize Cars,Front-Wheel Drive,80.0,1,8.0,18.42,135.0
+2016,Nissan,Midsize Cars,Front-Wheel Drive,80.0,1,6.0,18.63,172.0
+2016,Fiat,Minicompact Cars,Front-Wheel Drive,82.0,1,4.0,18.63,135.0
+2016,BMW,Subcompact Cars,Rear-Wheel Drive,125.0,1,4.0,16.78,130.0
+2016,Tesla,Large Cars,Rear-Wheel Drive,285.0,1,10.0,23.61,377.0
+2016,Tesla,Large Cars,Rear-Wheel Drive,285.0,1,12.0,23.61,426.0
+2016,Tesla,Large Cars,Rear-Wheel Drive,285.0,1,12.0,23.61,426.0
+2015,Tesla,Large Cars,Rear-Wheel Drive,285.0,1,12.0,23.61,426.0
+2016,Tesla,Large Cars,All-Wheel Drive,386.0,2,12.0,20.51,386.0
+2016,Tesla,Large Cars,All-Wheel Drive,386.0,2,12.0,21.13,435.0
+2016,Tesla,Large Cars,All-Wheel Drive,386.0,2,12.0,20.51,473.0
+2016,Tesla,Large Cars,All-Wheel Drive,568.0,2,12.0,22.37,407.0
+2016,Tesla,Large Cars,All-Wheel Drive,568.0,2,12.0,21.75,435.0
+2017,Mitsubishi,Subcompact Cars,Rear-Wheel Drive,49.0,1,7.0,18.64,95.0
+2016,Tesla,Large Cars,Rear-Wheel Drive,285.0,1,12.0,21.13,401.0
+2016,Tesla,Large Cars,All-Wheel Drive,386.0,2,12.0,20.51,417.0
+2016,Tesla,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,386.0,2,12.0,22.37,383.0
+2017,Fiat,Minicompact Cars,Front-Wheel Drive,82.0,1,4.0,18.63,135.0
+2016,BYD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,75.0,1,5.0,29.2,301.0
+2017,BMW,Subcompact Cars,Rear-Wheel Drive,125.0,1,4.0,16.78,130.0
+2017,BMW,Subcompact Cars,Rear-Wheel Drive,125.0,1,5.0,18.02,183.0
+2017,Mercedes-Benz,Midsize Cars,Front-Wheel Drive,132.0,1,3.5,25.0,140.0
+2017,Kia,Small Station Wagons,Front-Wheel Drive,81.0,1,4.0,19.87,150.0
+2016,Tesla,Large Cars,Rear-Wheel Drive,285.0,1,10.0,21.13,338.0
+2016,Tesla,Large Cars,All-Wheel Drive,386.0,2,12.0,19.88,351.0
+2016,Tesla,Large Cars,All-Wheel Drive,568.0,2,12.0,21.75,507.0
+2016,Tesla,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,386.0,2,12.0,22.37,322.0
+2017,Chevrolet,Small Station Wagons,Front-Wheel Drive,150.0,1,9.3,17.59,383.0
+2017,Nissan,Midsize Cars,Front-Wheel Drive,80.0,1,6.0,18.63,172.0
+2017,Hyundai,Midsize Cars,Front-Wheel Drive,88.0,1,4.0,15.53,200.0
+2016,Tesla,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,568.0,2,12.0,24.23,465.0
+2017,Ford,Compact Cars,Front-Wheel Drive,107.0,1,5.5,19.26,185.0
+2017,Tesla,Large Cars,All-Wheel Drive,386.0,2,12.0,19.88,351.0
+2017,Tesla,Large Cars,All-Wheel Drive,386.0,2,12.0,20.51,417.0
+2017,Tesla,Large Cars,All-Wheel Drive,568.0,2,12.0,21.75,507.0
+2017,Tesla,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,386.0,2,12.0,22.37,322.0
+2017,Tesla,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,386.0,2,12.0,22.37,383.0
+2017,Tesla,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,386.0,2,12.0,22.99,414.0
+2017,Tesla,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,568.0,2,12.0,23.61,402.0
+2017,Tesla,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,568.0,2,12.0,24.23,465.0
+2017,Tesla,Large Cars,All-Wheel Drive,568.0,2,12.0,21.75,435.0
+2017,Volkswagen,Compact Cars,Front-Wheel Drive,100.0,1,5.3,17.66,201.0
+2017,Tesla,Large Cars,Rear-Wheel Drive,285.0,1,10.0,21.13,338.0
+2017,Tesla,Large Cars,Rear-Wheel Drive,285.0,1,12.0,21.13,401.0
+2017,Tesla,Large Cars,All-Wheel Drive,386.0,2,12.0,19.88,473.0
+2017,BYD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,75.0,1,5.0,29.2,301.0
+2017,Tesla,Large Cars,All-Wheel Drive,386.0,2,12.0,20.51,539.0
+2017,Honda,Midsize Cars,Front-Wheel Drive,120.0,1,4.0,18.64,143.0
+2017,smart,Two Seaters,Rear-Wheel Drive,60.0,1,3.0,19.26,93.0
+2018,Kia,Small Station Wagons,Front-Wheel Drive,81.0,1,5.0,19.4,179.0
+2017,smart,Two Seaters,Rear-Wheel Drive,60.0,1,3.0,20.51,92.0
+2018,Ford,Compact Cars,Front-Wheel Drive,107.0,1,5.5,19.57,185.0
+2018,Hyundai,Midsize Cars,Front-Wheel Drive,88.0,1,4.0,15.53,200.0
+2017,Tesla,Midsize Cars,Rear-Wheel Drive,192.0,1,12.0,16.67,499.0
+2018,smart,Two Seaters,Rear-Wheel Drive,60.0,1,3.0,19.26,93.0
+2018,smart,Two Seaters,Rear-Wheel Drive,60.0,1,3.0,20.51,92.0
+2018,Chevrolet,Small Station Wagons,Front-Wheel Drive,150.0,1,9.3,17.59,383.0
+2017,Tesla,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,386.0,2,12.0,24.03,475.0
+2018,Tesla,Midsize Cars,Rear-Wheel Drive,202.0,1,10.0,16.08,499.0
+2018,Tesla,Large Cars,Rear-Wheel Drive,270.0,1,10.0,21.28,401.0
+2018,Tesla,Large Cars,All-Wheel Drive,386.0,2,12.0,20.27,417.0
+2018,Tesla,Large Cars,All-Wheel Drive,386.0,2,12.0,20.63,539.0
+2018,Tesla,Large Cars,All-Wheel Drive,568.0,2,12.0,21.48,507.0
+2018,Tesla,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,386.0,2,12.0,22.51,383.0
+2018,Tesla,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,386.0,2,12.0,24.03,475.0
+2018,Tesla,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,568.0,2,12.0,24.57,465.0
+2018,BMW,Subcompact Cars,Rear-Wheel Drive,125.0,1,5.0,17.79,183.0
+2018,BMW,Subcompact Cars,Rear-Wheel Drive,125.0,1,5.0,18.62,172.0
+2018,Nissan,Midsize Cars,Front-Wheel Drive,110.0,1,8.0,18.64,243.0
+2018,Volkswagen,Compact Cars,Front-Wheel Drive,100.0,1,5.3,17.66,201.0
+2018,BYD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,75.0,1,5.0,28.97,301.0
+2018,Fiat,Minicompact Cars,Front-Wheel Drive,82.0,1,4.0,18.63,135.0
+2018,Honda,Midsize Cars,Front-Wheel Drive,120.0,1,4.0,18.35,143.0
+2019,Hyundai,Midsize Cars,Front-Wheel Drive,88.0,1,4.0,15.53,200.0
+2018,Tesla,Midsize Cars,All-Wheel Drive,335.0,2,10.0,17.99,499.0
+2018,Tesla,Midsize Cars,All-Wheel Drive,349.0,2,10.0,17.99,499.0
+2019,Chevrolet,Small Station Wagons,Front-Wheel Drive,150.0,1,9.3,17.59,383.0
+2019,Hyundai,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,150.0,1,9.0,17.4,415.0
+2019,Kia,Small Station Wagons,Front-Wheel Drive,81.0,1,5.0,19.4,179.0
+2019,Volkswagen,Compact Cars,Front-Wheel Drive,100.0,1,5.3,17.66,201.0
+2019,Nissan,Midsize Cars,Front-Wheel Drive,110.0,1,8.0,18.75,241.0
+2019,Jaguar,Small Sport Utility Vehicle 4WD,4-Wheel Drive,294.0,2,13.0,27.51,377.0
+2019,BMW,Subcompact Cars,Rear-Wheel Drive,125.0,1,5.0,18.51,246.0
+2019,BMW,Subcompact Cars,Rear-Wheel Drive,135.0,1,5.0,18.51,246.0
+2018,Tesla,Midsize Cars,Rear-Wheel Drive,202.0,1,10.0,17.08,418.0
+2019,Kia,Small Station Wagons,Front-Wheel Drive,150.0,1,9.5,18.65,385.0
+2019,Fiat,Minicompact Cars,Front-Wheel Drive,82.0,1,4.0,18.63,135.0
+2019,Honda,Midsize Cars,Front-Wheel Drive,120.0,1,4.0,18.35,143.0
+2019,smart,Two Seaters,Rear-Wheel Drive,60.0,1,3.0,19.26,93.0
+2019,smart,Two Seaters,Rear-Wheel Drive,60.0,1,3.0,20.51,92.0
+2019,Tesla,Midsize Cars,Rear-Wheel Drive,211.0,1,10.0,17.08,425.0
+2019,Tesla,Midsize Cars,Rear-Wheel Drive,211.0,1,10.0,16.08,499.0
+2019,Tesla,Midsize Cars,All-Wheel Drive,335.0,2,10.0,17.99,499.0
+2019,Tesla,Midsize Cars,All-Wheel Drive,358.0,2,10.0,17.99,499.0
+2019,Tesla,Large Cars,All-Wheel Drive,386.0,2,12.0,20.27,417.0
+2019,Tesla,Large Cars,All-Wheel Drive,386.0,2,12.0,20.63,539.0
+2019,Tesla,Large Cars,All-Wheel Drive,568.0,2,12.0,21.48,507.0
+2019,Tesla,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,386.0,2,12.0,22.51,383.0
+2019,Tesla,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,386.0,2,12.0,24.03,475.0
+2019,Tesla,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,568.0,2,12.0,24.57,465.0
+2019,Nissan,Midsize Cars,Front-Wheel Drive,160.0,1,11.0,19.26,364.0
+2019,Nissan,Midsize Cars,Front-Wheel Drive,160.0,1,11.0,20.06,346.0
+2019,Audi,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,313.0,2,10.0,28.31,328.0
+2020,Jaguar,Small Sport Utility Vehicle 4WD,4-Wheel Drive,294.0,2,13.0,27.53,377.0
+2019,Tesla,Midsize Cars,Rear-Wheel Drive,211.0,1,8.5,15.96,354.0
+2019,Tesla,Midsize Cars,Rear-Wheel Drive,211.0,1,9.5,15.78,386.0
+2019,Tesla,Large Cars,All-Wheel Drive,398.0,2,12.0,18.81,595.0
+2019,Tesla,Large Cars,All-Wheel Drive,398.0,2,12.0,20.15,555.0
+2019,Tesla,Large Cars,All-Wheel Drive,398.0,2,12.0,21.58,523.0
+2019,Tesla,Large Cars,All-Wheel Drive,398.0,2,9.2,19.15,459.0
+2019,Tesla,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,12.0,21.77,523.0
+2019,Tesla,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,12.0,26.6,435.0
+2020,BYD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,75.0,1,5.0,28.97,301.0
+2020,Hyundai,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,150.0,1,9.0,17.08,415.0
+2020,Chevrolet,Small Station Wagons,Front-Wheel Drive,150.0,1,10.0,17.81,417.0
+2020,Hyundai,Midsize Cars,Front-Wheel Drive,100.0,1,5.8,15.77,274.0
+2020,Tesla,Midsize Cars,Rear-Wheel Drive,211.0,1,10.0,16.08,531.0
+2020,Tesla,Midsize Cars,All-Wheel Drive,335.0,2,10.0,17.37,518.0
+2020,Tesla,Midsize Cars,Rear-Wheel Drive,211.0,1,10.0,17.08,425.0
+2020,Tesla,Midsize Cars,Rear-Wheel Drive,211.0,1,8.5,15.96,354.0
+2020,Tesla,Midsize Cars,Rear-Wheel Drive,211.0,1,8.5,14.9,402.0
+2020,Tesla,Midsize Cars,All-Wheel Drive,358.0,2,10.0,17.4,518.0
+2020,Tesla,Midsize Cars,All-Wheel Drive,358.0,2,10.0,18.1,489.0
+2020,Tesla,Midsize Cars,All-Wheel Drive,358.0,2,10.0,18.57,481.0
+2020,Tesla,Large Cars,All-Wheel Drive,398.0,2,12.0,18.81,600.0
+2020,Tesla,Large Cars,All-Wheel Drive,398.0,2,12.0,20.15,560.0
+2020,Tesla,Large Cars,All-Wheel Drive,398.0,2,12.0,21.58,525.0
+2020,Tesla,Large Cars,All-Wheel Drive,398.0,2,9.2,19.15,462.0
+2020,Tesla,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,398.0,2,12.0,21.77,528.0
+2020,Tesla,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,580.0,2,12.0,23.34,491.0
+2020,Tesla,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,580.0,2,12.0,26.6,438.0
+2020,Tesla,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,398.0,2,9.2,20.67,415.0
+2020,Porsche,Large Cars,All-Wheel Drive,505.0,2,10.0,30.25,323.0
+2020,Porsche,Large Cars,All-Wheel Drive,290.0,2,10.5,31.01,309.0
+2020,Tesla,Small Sport Utility Vehicle 4WD,All-Wheel Drive,358.0,2,10.0,17.38,507.0
+2020,MINI,Subcompact Cars,Front-Wheel Drive,135.0,1,4.0,19.44,177.0
+2020,BMW,Subcompact Cars,Rear-Wheel Drive,125.0,1,7.0,18.51,246.0
+2020,BMW,Subcompact Cars,Rear-Wheel Drive,135.0,1,7.0,18.51,246.0
+2020,Kia,Small Station Wagons,Front-Wheel Drive,150.0,1,9.5,18.65,385.0
+2020,Nissan,Midsize Cars,Front-Wheel Drive,110.0,1,8.0,18.91,240.0
+2020,Nissan,Midsize Cars,Front-Wheel Drive,160.0,1,11.0,19.45,364.0
+2020,Nissan,Midsize Cars,Front-Wheel Drive,160.0,1,11.0,20.06,346.0
+2020,Porsche,Large Cars,All-Wheel Drive,416.0,2,10.5,30.33,327.0
+2021,MINI,Subcompact Cars,Front-Wheel Drive,135.0,1,4.0,19.44,177.0
+2020,Audi,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,313.0,2,10.0,27.33,351.0
+2020,Tesla,Large Cars,All-Wheel Drive,568.0,2,15.3,17.96,647.0
+2020,Tesla,Small Sport Utility Vehicle 4WD,All-Wheel Drive,377.0,2,10.0,18.86,468.0
+2020,Tesla,Small Sport Utility Vehicle 4WD,All-Wheel Drive,361.0,2,10.0,17.31,509.0
+2021,Polestar,Midsize Cars,All-Wheel Drive,416.0,2,8.0,22.78,375.0
+2021,Volvo,Small Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,8.0,26.6,335.0
+2021,Tesla,Midsize Cars,All-Wheel Drive,293.0,2,11.2,15.6,568.0
+2021,Tesla,Midsize Cars,All-Wheel Drive,321.0,2,11.6,18.61,507.0
+2021,Tesla,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,369.0,2,15.0,19.89,597.0
+2021,Tesla,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,424.0,2,15.0,21.5,549.0
+2021,Tesla,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,424.0,2,15.0,24.41,483.0
+2021,Tesla,Small Sport Utility Vehicle 4WD,All-Wheel Drive,270.0,2,10.0,16.81,525.0
+2021,Tesla,Small Sport Utility Vehicle 4WD,All-Wheel Drive,312.0,2,11.8,18.95,488.0
+2020,Kia,Small Station Wagons,Front-Wheel Drive,201.0,1,9.5,18.13,391.0
+2020,Tesla,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,398.0,2,12.0,19.98,565.0
+2021,Audi,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,313.0,2,10.0,26.97,357.0
+2021,Audi,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,313.0,2,10.0,27.33,351.0
+2021,Tesla,Large Cars,All-Wheel Drive,425.0,2,14.7,18.99,623.0
+2021,Tesla,Large Cars,All-Wheel Drive,425.0,2,14.7,21.9,538.0
+2021,Volkswagen,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,150.0,1,7.5,21.75,402.0
+2021,Volkswagen,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,150.0,1,7.5,21.75,402.0
+2021,Ford,Small Station Wagons,All-Wheel Drive,198.0,2,8.5,22.6,340.0
+2021,Ford,Small Station Wagons,All-Wheel Drive,258.0,2,10.7,23.16,435.0
+2021,Ford,Small Station Wagons,Rear-Wheel Drive,198.0,1,8.8,21.04,370.0
+2021,Ford,Small Station Wagons,Rear-Wheel Drive,216.0,1,10.9,21.51,483.0
+2021,Kandi,Compact Cars,Front-Wheel Drive,20.0,1,7.0,18.35,95.0
+2021,BMW,Subcompact Cars,Rear-Wheel Drive,135.0,1,7.0,18.51,246.0
+2021,Chevrolet,Small Station Wagons,Front-Wheel Drive,150.0,1,10.0,17.81,417.0
+2021,Nissan,Midsize Cars,Front-Wheel Drive,110.0,1,8.0,18.91,240.0
+2021,Nissan,Midsize Cars,Front-Wheel Drive,160.0,1,11.0,19.45,364.0
+2021,Nissan,Midsize Cars,Front-Wheel Drive,160.0,1,11.0,20.06,346.0
+2021,Ford,Small Station Wagons,Rear-Wheel Drive,216.0,1,11.4,20.72,491.0
+2021,Porsche,Large Cars,All-Wheel Drive,474.0,2,9.5,26.38,320.0
+2021,Porsche,Large Cars,All-Wheel Drive,460.0,2,10.5,27.02,365.0
+2021,Hyundai,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,150.0,1,9.0,16.78,415.0
+2021,Porsche,Compact Cars,Rear-Wheel Drive,240.0,1,9.5,25.48,322.0
+2021,Porsche,Compact Cars,Rear-Wheel Drive,280.0,1,10.5,27.93,362.0
+2021,BMW,Subcompact Cars,Rear-Wheel Drive,125.0,1,7.0,18.51,246.0
+2021,Kia,Small Station Wagons,Front-Wheel Drive,150.0,1,9.5,18.65,385.0
+2021,Tesla,Midsize Cars,Rear-Wheel Drive,198.0,1,7.8,14.75,423.0
+2021,Hyundai,Midsize Cars,Front-Wheel Drive,100.0,1,5.8,15.77,274.0
+2021,Tesla,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,209.0,1,8.0,16.17,393.0
+2021,Jaguar,Small Sport Utility Vehicle 4WD,4-Wheel Drive,294.0,2,13.0,27.53,377.0
+2021,Porsche,Large Cars,All-Wheel Drive,416.0,2,10.5,27.96,341.0
+2021,Porsche,Large Cars,All-Wheel Drive,416.0,2,10.5,29.89,323.0
+2022,MINI,Subcompact Cars,Front-Wheel Drive,135.0,1,4.0,19.08,183.0
+2022,Chevrolet,Small Station Wagons,Front-Wheel Drive,150.0,1,7.5,18.27,398.0
+2022,Chevrolet,Small Station Wagons,Front-Wheel Drive,150.0,1,7.5,17.47,417.0
+2021,Tesla,Large Cars,All-Wheel Drive,365.0,2,15.0,17.51,652.0
+2021,Volkswagen,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,150.0,1,7.5,21.13,418.0
+2021,Tesla,Large Cars,All-Wheel Drive,750.0,3,15.0,20.78,560.0
+2022,Hyundai,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,150.0,1,9.5,17.4,415.0
+2022,Kia,Small Station Wagons,Front-Wheel Drive,150.0,1,9.5,18.65,385.0
+2022,Nissan,Midsize Cars,Front-Wheel Drive,110.0,1,8.0,18.91,240.0
+2022,Nissan,Midsize Cars,Front-Wheel Drive,160.0,1,11.0,19.45,364.0
+2022,Nissan,Midsize Cars,Front-Wheel Drive,160.0,1,11.0,20.06,346.0
+2022,Polestar,Midsize Cars,All-Wheel Drive,300.0,2,8.0,23.49,401.0
+2022,Volvo,Small Sport Utility Vehicle 4WD,All-Wheel Drive,300.0,2,8.0,24.51,359.0
+2022,Rivian,Standard Sport Utility Vehicle 4WD,Part-time 4-Wheel Drive,650.0,4,13.0,30.21,509.0
+2022,Rivian,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,650.0,4,13.0,29.87,505.0
+2022,Lucid,Large Cars,All-Wheel Drive,829.0,2,13.0,18.12,758.0
+2022,Lucid,Large Cars,All-Wheel Drive,829.0,2,13.0,18.93,726.0
+2022,Lucid,Large Cars,All-Wheel Drive,696.0,2,13.0,16.69,837.0
+2022,Lucid,Large Cars,All-Wheel Drive,696.0,2,13.0,18.12,774.0
+2022,Lucid,Large Cars,All-Wheel Drive,611.0,2,13.0,15.97,830.0
+2022,Lucid,Large Cars,All-Wheel Drive,611.0,2,13.0,17.27,755.0
+2021,Porsche,Midsize Cars,All-Wheel Drive,495.0,2,10.5,27.4,346.0
+2021,Porsche,Midsize Cars,All-Wheel Drive,495.0,2,10.5,27.96,346.0
+2021,Porsche,Midsize Cars,All-Wheel Drive,525.0,2,10.5,28.61,325.0
+2021,Porsche,Midsize Cars,All-Wheel Drive,530.0,2,10.5,29.13,328.0
+2021,Volkswagen,Small Sport Utility Vehicle 4WD,All-Wheel Drive,230.0,2,7.5,21.69,401.0
+2021,Volkswagen,Small Sport Utility Vehicle 4WD,All-Wheel Drive,230.0,2,7.5,22.54,386.0
+2022,Audi,Midsize Cars,All-Wheel Drive,416.0,2,10.0,25.64,383.0
+2022,Audi,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,10.0,28.52,335.0
+2022,Audi,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,10.0,33.12,291.0
+2022,Audi,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,295.0,2,10.0,27.91,341.0
+2022,Audi,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,295.0,2,10.0,32.36,298.0
+2022,Audi,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,230.0,2,9.0,22.14,388.0
+2022,Audi,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,230.0,2,9.0,22.14,388.0
+2022,Audi,Midsize Cars,All-Wheel Drive,416.0,2,10.0,26.0,373.0
+2022,Mazda,Midsize Cars,Front-Wheel Drive,81.0,1,5.3,22.84,161.0
+2022,Mercedes-Benz,Large Cars,Rear-Wheel Drive,245.0,1,12.5,21.75,563.0
+2022,Porsche,Compact Cars,All-Wheel Drive,420.0,2,9.5,26.38,320.0
+2022,Porsche,Compact Cars,All-Wheel Drive,495.0,2,10.5,27.02,365.0
+2022,Porsche,Compact Cars,Rear-Wheel Drive,240.0,1,9.5,26.1,322.0
+2022,Porsche,Compact Cars,Rear-Wheel Drive,280.0,1,10.5,27.93,362.0
+2022,Porsche,Compact Cars,All-Wheel Drive,505.0,2,10.5,28.58,341.0
+2022,Porsche,Compact Cars,All-Wheel Drive,525.0,2,10.5,29.89,323.0
+2022,Porsche,Midsize Cars,All-Wheel Drive,495.0,2,10.5,27.4,346.0
+2022,Porsche,Midsize Cars,All-Wheel Drive,495.0,2,10.5,27.96,346.0
+2022,Porsche,Midsize Cars,All-Wheel Drive,530.0,2,10.5,29.13,328.0
+2022,Porsche,Midsize Cars,All-Wheel Drive,525.0,2,10.5,28.61,325.0
+2021,Ford,Small Station Wagons,All-Wheel Drive,358.0,2,10.3,24.97,435.0
+2021,Ford,Small Station Wagons,All-Wheel Drive,358.0,2,10.1,25.59,418.0
+2022,Audi,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,313.0,2,10.0,26.97,357.0
+2022,Audi,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,313.0,2,10.0,27.33,351.0
+2022,Hyundai,Large Cars,All-Wheel Drive,239.0,2,8.5,21.33,412.0
+2022,Hyundai,Large Cars,Rear-Wheel Drive,168.0,1,8.5,18.64,488.0
+2022,Hyundai,Large Cars,Rear-Wheel Drive,125.0,1,6.3,19.26,354.0
+2022,Kia,Small Station Wagons,All-Wheel Drive,239.0,2,8.4,19.71,441.0
+2022,Kia,Small Station Wagons,Rear-Wheel Drive,168.0,1,8.7,18.02,499.0
+2022,Kia,Small Station Wagons,Rear-Wheel Drive,125.0,1,6.3,18.02,373.0
+2022,Polestar,Midsize Cars,Front-Wheel Drive,170.0,1,8.0,19.57,435.0
+2022,Volvo,Small Sport Utility Vehicle 4WD,All-Wheel Drive,300.0,2,8.0,23.94,364.0
+2022,Tesla,Midsize Cars,All-Wheel Drive,293.0,2,11.5,16.05,576.0
+2022,Tesla,Midsize Cars,All-Wheel Drive,321.0,2,10.0,18.61,507.0
+2022,Tesla,Midsize Cars,Rear-Wheel Drive,192.0,1,10.4,15.84,438.0
+2022,Tesla,Large Cars,All-Wheel Drive,494.0,2,15.0,17.51,652.0
+2022,Tesla,Large Cars,All-Wheel Drive,750.0,3,15.0,18.11,637.0
+2022,Tesla,Large Cars,All-Wheel Drive,750.0,3,15.0,20.78,560.0
+2022,Tesla,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,209.0,1,8.0,16.17,393.0
+2022,Tesla,Small Sport Utility Vehicle 4WD,All-Wheel Drive,291.0,2,11.5,17.17,531.0
+2022,Tesla,Small Sport Utility Vehicle 4WD,All-Wheel Drive,312.0,2,11.8,18.95,488.0
+2022,Tesla,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,491.0,2,14.0,20.56,560.0
+2022,Tesla,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,690.0,3,14.0,21.35,536.0
+2022,Tesla,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,690.0,3,14.0,22.94,501.0
+2022,Mercedes-Benz,Large Cars,All-Wheel Drive,390.0,2,12.5,22.07,547.0
+2022,BMW,Subcompact Cars,All-Wheel Drive,420.0,2,10.0,21.9,435.0
+2022,BMW,Subcompact Cars,All-Wheel Drive,420.0,2,10.0,26.29,365.0
+2022,BMW,Subcompact Cars,Rear-Wheel Drive,250.0,1,10.0,19.22,484.0
+2022,BMW,Subcompact Cars,Rear-Wheel Drive,250.0,1,10.0,21.1,454.0
+2022,BMW,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,420.0,2,12.0,24.23,521.0
+2022,BMW,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,420.0,2,12.0,25.27,491.0
+2022,BMW,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,420.0,2,12.0,24.4,507.0
+2022,Ford,Small Sport Utility Vehicle 4WD,All-Wheel Drive,198.0,2,8.0,22.56,360.0
+2022,Ford,Small Sport Utility Vehicle 4WD,All-Wheel Drive,258.0,2,10.7,23.05,446.0
+2022,Ford,Small Sport Utility Vehicle 4WD,All-Wheel Drive,258.0,2,11.4,21.34,502.0
+2022,Ford,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,216.0,1,10.1,20.72,505.0
+2022,Ford,Small Sport Utility Vehicle 4WD,All-Wheel Drive,358.0,2,10.3,24.97,435.0
+2022,Ford,Small Sport Utility Vehicle 4WD,All-Wheel Drive,358.0,2,10.1,25.59,418.0
+2022,Ford,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,198.0,1,8.1,20.27,398.0
+2022,Ford,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,216.0,1,10.9,21.51,488.0
+2022,Tesla,Small Sport Utility Vehicle 4WD,All-Wheel Drive,291.0,2,9.4,17.09,449.0
+2022,Volkswagen,Small Sport Utility Vehicle 4WD,All-Wheel Drive,230.0,2,7.5,20.73,404.0
+2022,Volkswagen,Small Sport Utility Vehicle 4WD,All-Wheel Drive,230.0,2,7.5,22.04,394.0
+2022,Volkswagen,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,150.0,1,7.5,19.88,443.0
+2022,Ford,Standard Pickup Trucks 4WD,All-Wheel Drive,420.0,2,9.3,31.51,483.0
+2022,Ford,Standard Pickup Trucks 4WD,All-Wheel Drive,420.0,2,10.1,29.77,515.0
+2022,Ford,Standard Pickup Trucks 4WD,All-Wheel Drive,337.0,2,11.9,30.67,370.0
+2023,BMW,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,550.0,2,12.0,27.03,463.0
+2023,BMW,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,550.0,2,12.0,26.71,441.0
+2023,Genesis,Large Cars,All-Wheel Drive,234.0,2,7.2,22.06,399.0
+2023,Genesis,Large Cars,All-Wheel Drive,320.0,2,7.2,22.89,378.0
+2023,MINI,Subcompact Cars,Front-Wheel Drive,135.0,1,4.0,19.08,183.0
+2022,Volkswagen,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,150.0,1,7.5,20.51,422.0
+2022,Porsche,Compact Cars,All-Wheel Drive,554.0,2,10.5,25.29,396.0
+2022,Porsche,Compact Cars,All-Wheel Drive,554.0,2,10.5,26.16,375.0
+2023,Cadillac,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,255.0,1,6.5,23.42,502.0
+2023,Chevrolet,Small Station Wagons,Front-Wheel Drive,150.0,1,7.5,18.27,398.0
+2023,Chevrolet,Small Station Wagons,Front-Wheel Drive,150.0,1,7.5,17.47,417.0
+2023,Polestar,Midsize Cars,All-Wheel Drive,300.0,2,8.0,22.11,398.0
+2023,Polestar,Midsize Cars,All-Wheel Drive,300.0,2,8.0,20.88,418.0
+2023,Polestar,Midsize Cars,All-Wheel Drive,350.0,2,8.0,20.88,418.0
+2023,Polestar,Midsize Cars,Front-Wheel Drive,170.0,1,8.0,19.57,435.0
+2023,Toyota,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,150.0,1,11.0,17.6,406.0
+2023,Toyota,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,150.0,1,11.0,18.64,389.0
+2023,Toyota,Small Sport Utility Vehicle 4WD,All-Wheel Drive,230.0,2,11.0,19.88,367.0
+2023,Toyota,Small Sport Utility Vehicle 4WD,All-Wheel Drive,230.0,2,11.0,20.51,357.0
+2023,Volvo,Small Sport Utility Vehicle 4WD,All-Wheel Drive,350.0,2,8.0,23.94,364.0
+2023,Volvo,Small Sport Utility Vehicle 4WD,All-Wheel Drive,300.0,2,8.0,24.51,359.0
+2023,Audi,Midsize Cars,All-Wheel Drive,416.0,2,10.5,25.64,383.0
+2023,Audi,Midsize Cars,All-Wheel Drive,416.0,2,10.5,26.0,373.0
+2023,Audi,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,168.0,1,9.0,20.32,426.0
+2023,Audi,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,10.0,26.65,364.0
+2023,Audi,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,10.0,28.52,335.0
+2023,Audi,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,10.0,27.91,341.0
+2023,Audi,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,10.0,26.83,362.0
+2023,Audi,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,9.0,22.62,380.0
+2023,Audi,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,9.0,22.09,389.0
+2023,BMW,Subcompact Cars,All-Wheel Drive,416.0,2,10.0,21.89,436.0
+2023,BMW,Subcompact Cars,All-Wheel Drive,416.0,2,10.0,26.29,365.0
+2023,BMW,Subcompact Cars,Rear-Wheel Drive,168.0,1,10.0,21.07,484.0
+2023,BMW,Large Cars,All-Wheel Drive,416.0,2,12.0,23.46,512.0
+2023,BMW,Large Cars,All-Wheel Drive,416.0,2,12.0,25.25,476.0
+2023,BMW,Large Cars,All-Wheel Drive,416.0,2,12.0,24.08,496.0
+2023,BMW,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,12.0,24.23,521.0
+2023,BMW,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,12.0,25.27,491.0
+2023,BMW,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,12.0,24.4,507.0
+2023,Genesis,Midsize Cars,All-Wheel Drive,416.0,2,9.0,20.82,454.0
+2023,Hyundai,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,168.0,1,9.5,17.08,415.0
+2023,Jaguar,Small Sport Utility Vehicle 4WD,4-Wheel Drive,416.0,2,13.0,24.51,396.0
+2023,Jaguar,Small Sport Utility Vehicle 4WD,4-Wheel Drive,416.0,2,13.0,27.74,349.0
+2023,Kia,Small Station Wagons,All-Wheel Drive,416.0,2,8.9,26.37,332.0
+2023,Kia,Small Station Wagons,All-Wheel Drive,416.0,2,8.4,19.3,454.0
+2023,Kia,Small Station Wagons,All-Wheel Drive,416.0,2,8.4,21.28,406.0
+2023,Kia,Small Station Wagons,Rear-Wheel Drive,168.0,1,8.7,17.42,499.0
+2023,Kia,Small Station Wagons,Rear-Wheel Drive,168.0,1,6.3,17.59,373.0
+2023,Kia,Small Station Wagons,Front-Wheel Drive,168.0,1,7.5,18.18,407.0
+2023,Mercedes-Benz,Large Cars,All-Wheel Drive,416.0,2,12.5,19.28,547.0
+2023,Mercedes-Benz,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,12.75,26.47,459.0
+2023,Mercedes-Benz,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,168.0,1,12.75,24.3,491.0
+2023,Mercedes-Benz,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,12.75,26.13,459.0
+2023,Nissan,Small Station Wagons,Front-Wheel Drive,168.0,1,10.0,20.67,348.0
+2023,Nissan,Small Station Wagons,Front-Wheel Drive,168.0,1,14.0,21.36,465.0
+2023,Nissan,Small Station Wagons,Front-Wheel Drive,168.0,1,14.0,20.33,489.0
+2023,Nissan,Midsize Cars,Front-Wheel Drive,168.0,1,8.0,18.91,240.0
+2023,Nissan,Midsize Cars,Front-Wheel Drive,168.0,1,11.0,19.13,341.0
+2023,Porsche,Midsize Cars,All-Wheel Drive,495.0,2,10.5,26.1,378.0
+2023,Porsche,Midsize Cars,All-Wheel Drive,495.0,2,10.5,26.59,370.0
+2023,Porsche,Compact Cars,All-Wheel Drive,495.0,2,10.5,26.27,378.0
+2023,Porsche,Compact Cars,All-Wheel Drive,420.0,2,9.5,25.16,332.0
+2023,Porsche,Compact Cars,All-Wheel Drive,510.0,2,10.5,25.29,396.0
+2023,Porsche,Compact Cars,All-Wheel Drive,510.0,2,10.5,26.16,375.0
+2023,Porsche,Compact Cars,Rear-Wheel Drive,280.0,1,10.5,25.59,389.0
+2023,Porsche,Compact Cars,Rear-Wheel Drive,240.0,1,9.5,25.27,335.0
+2023,Porsche,Compact Cars,All-Wheel Drive,510.0,2,10.5,25.98,383.0
+2023,Porsche,Midsize Cars,All-Wheel Drive,510.0,2,10.5,25.87,375.0
+2023,Porsche,Compact Cars,All-Wheel Drive,525.0,2,10.5,27.66,357.0
+2023,Porsche,Midsize Cars,All-Wheel Drive,525.0,2,10.5,27.66,357.0
+2023,Subaru,Small Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,11.0,19.22,367.0
+2023,Subaru,Small Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,11.0,19.96,357.0
+2023,Volkswagen,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,150.0,1,6.0,19.56,336.0
+2023,Volkswagen,Small Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,7.5,21.24,410.0
+2023,Volkswagen,Small Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,7.5,21.24,410.0
+2023,Volkswagen,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,150.0,1,7.5,19.59,443.0
+2023,Volkswagen,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,150.0,1,7.5,19.59,443.0
+2023,Volkswagen,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,150.0,1,6.0,19.56,336.0
+2023,Tesla,Midsize Cars,All-Wheel Drive,293.0,2,11.5,16.05,576.0
+2023,Tesla,Midsize Cars,All-Wheel Drive,321.0,2,10.0,18.61,507.0
+2023,Tesla,Midsize Cars,Rear-Wheel Drive,192.0,1,10.4,15.84,438.0
+2023,Tesla,Large Cars,All-Wheel Drive,494.0,2,15.0,17.51,652.0
+2023,Tesla,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,491.0,2,14.0,20.56,560.0
+2023,Tesla,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,690.0,3,14.0,21.35,536.0
+2023,Tesla,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,690.0,3,14.0,22.94,501.0
+2023,Tesla,Small Sport Utility Vehicle 4WD,All-Wheel Drive,291.0,2,9.4,17.09,449.0
+2023,Tesla,Small Sport Utility Vehicle 4WD,All-Wheel Drive,291.0,2,11.5,17.17,531.0
+2023,Tesla,Small Sport Utility Vehicle 4WD,All-Wheel Drive,312.0,2,11.8,18.95,488.0
+2023,Lucid,Large Cars,All-Wheel Drive,829.0,2,13.0,15.97,830.0
+2023,Lucid,Large Cars,All-Wheel Drive,740.0,2,13.0,17.27,755.0
+2023,Lucid,Large Cars,All-Wheel Drive,416.0,2,13.0,17.27,755.0
+2023,Lucid,Large Cars,All-Wheel Drive,416.0,2,13.0,18.93,718.0
+2023,Lucid,Large Cars,All-Wheel Drive,416.0,2,10.0,14.95,660.0
+2023,Lucid,Large Cars,All-Wheel Drive,416.0,2,10.0,17.31,618.0
+2023,Lucid,Large Cars,All-Wheel Drive,416.0,2,10.0,14.95,684.0
+2023,Lucid,Large Cars,All-Wheel Drive,416.0,2,10.0,17.31,618.0
+2023,Lucid,Large Cars,All-Wheel Drive,416.0,2,10.0,17.31,618.0
+2023,Rivian,Standard Pickup Trucks 4WD,All-Wheel Drive,650.0,4,13.0,32.55,465.0
+2023,Rivian,Standard Pickup Trucks 4WD,All-Wheel Drive,650.0,4,13.0,28.67,528.0
+2023,Rivian,Standard Pickup Trucks 4WD,All-Wheel Drive,650.0,4,13.0,30.67,488.0
+2023,Rivian,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,650.0,4,13.0,32.55,465.0
+2023,Rivian,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,650.0,4,13.0,29.45,517.0
+2023,Rivian,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,650.0,4,13.0,30.67,488.0
+2023,Ford,Standard Pickup Trucks 4WD,All-Wheel Drive,420.0,2,10.1,29.77,515.0
+2023,Ford,Standard Pickup Trucks 4WD,All-Wheel Drive,420.0,2,9.3,31.51,483.0
+2023,Ford,Standard Pickup Trucks 4WD,All-Wheel Drive,337.0,2,11.9,30.67,386.0
+2022,Mercedes-Benz,Large Cars,All-Wheel Drive,484.0,2,12.5,27.33,446.0
+2022,Mercedes-Benz,Small Sport Utility Vehicle 4WD,All-Wheel Drive,168.0,2,8.25,20.7,391.0
+2022,Mercedes-Benz,Small Sport Utility Vehicle 4WD,All-Wheel Drive,215.0,2,8.25,21.75,365.0
+2023,Ford,Small Sport Utility Vehicle 4WD,All-Wheel Drive,198.0,2,8.0,22.57,360.0
+2023,Ford,Small Sport Utility Vehicle 4WD,All-Wheel Drive,258.0,2,10.0,22.87,467.0
+2023,Ford,Small Sport Utility Vehicle 4WD,All-Wheel Drive,258.0,2,10.1,21.34,502.0
+2023,Ford,Small Sport Utility Vehicle 4WD,All-Wheel Drive,358.0,2,10.3,24.97,435.0
+2023,Ford,Small Sport Utility Vehicle 4WD,All-Wheel Drive,358.0,2,10.1,25.48,418.0
+2023,Ford,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,198.0,1,8.1,20.29,398.0
+2023,Ford,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,216.0,1,10.2,21.13,499.0
+2023,Lordstown,Standard Pickup Trucks 4WD,4-Wheel Drive,384.0,4,19.0,43.5,280.0
+2023,Audi,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,10.0,33.12,291.0
+2023,Audi,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,295.0,2,10.0,32.36,298.0
+2023,BMW,Subcompact Cars,Rear-Wheel Drive,250.0,1,8.0,18.54,412.0
+2023,BMW,Subcompact Cars,Rear-Wheel Drive,250.0,1,8.0,20.02,378.0
+2023,BMW,Subcompact Cars,Rear-Wheel Drive,250.0,1,10.0,21.07,454.0
+2023,Cadillac,Small Sport Utility Vehicle 4WD,All-Wheel Drive,375.0,2,10.7,23.6,494.0
+2023,Hyundai,Midsize Cars,All-Wheel Drive,239.0,2,7.5,17.4,509.0
+2023,Hyundai,Midsize Cars,All-Wheel Drive,239.0,2,7.5,20.21,435.0
+2023,Hyundai,Midsize Cars,Rear-Wheel Drive,168.0,1,7.5,14.65,581.0
+2023,Hyundai,Midsize Cars,Rear-Wheel Drive,168.0,1,7.5,18.02,491.0
+2023,Hyundai,Midsize Cars,Rear-Wheel Drive,111.0,1,6.1,15.53,386.0
+2024,Audi,Midsize Cars,All-Wheel Drive,416.0,2,10.5,24.67,401.0
+2024,Audi,Midsize Cars,All-Wheel Drive,416.0,2,10.5,24.67,401.0
+2024,Audi,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,150.0,1,9.0,20.32,426.0
+2024,Audi,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,9.0,22.62,380.0
+2024,Audi,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,9.0,22.09,389.0
+2024,Audi,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,313.0,2,16.0,25.71,459.0
+2024,Audi,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,16.0,24.35,483.0
+2024,BMW,Subcompact Cars,4-Wheel Drive,420.0,2,8.0,21.97,433.0
+2024,BMW,Subcompact Cars,4-Wheel Drive,420.0,2,8.0,26.29,365.0
+2024,BMW,Subcompact Cars,4-Wheel Drive,420.0,2,8.0,19.24,494.0
+2024,BMW,Subcompact Cars,4-Wheel Drive,420.0,2,8.0,21.21,449.0
+2024,BMW,Subcompact Cars,Rear-Wheel Drive,250.0,1,7.0,17.39,444.0
+2024,BMW,Subcompact Cars,Rear-Wheel Drive,250.0,1,7.0,19.12,406.0
+2024,BMW,Subcompact Cars,Rear-Wheel Drive,250.0,1,8.0,19.22,484.0
+2024,BMW,Subcompact Cars,Rear-Wheel Drive,250.0,1,8.0,21.04,455.0
+2024,BMW,Compact Cars,Rear-Wheel Drive,250.0,1,8.0,20.01,475.0
+2024,BMW,Compact Cars,Rear-Wheel Drive,250.0,1,8.0,21.26,447.0
+2024,BMW,Compact Cars,Rear-Wheel Drive,250.0,1,8.0,21.92,435.0
+2024,BMW,Compact Cars,4-Wheel Drive,420.0,2,8.0,23.01,412.0
+2024,BMW,Compact Cars,4-Wheel Drive,420.0,2,8.0,23.45,399.0
+2024,BMW,Compact Cars,4-Wheel Drive,420.0,2,8.0,24.61,386.0
+2024,BMW,Large Cars,Rear-Wheel Drive,335.0,1,11.0,23.21,517.0
+2024,BMW,Large Cars,Rear-Wheel Drive,335.0,1,11.0,24.23,484.0
+2024,BMW,Large Cars,Rear-Wheel Drive,335.0,1,11.0,23.67,501.0
+2024,BMW,Large Cars,All-Wheel Drive,550.0,2,11.0,27.35,441.0
+2024,BMW,Large Cars,All-Wheel Drive,550.0,2,11.0,25.8,468.0
+2024,BMW,Large Cars,4-Wheel Drive,420.0,2,11.0,23.39,510.0
+2024,BMW,Large Cars,4-Wheel Drive,420.0,2,11.0,24.99,480.0
+2024,BMW,Large Cars,4-Wheel Drive,420.0,2,11.0,23.77,494.0
+2024,BMW,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,550.0,2,11.0,26.28,476.0
+2024,BMW,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,550.0,2,11.0,26.28,476.0
+2024,BMW,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,420.0,2,8.0,24.43,349.0
+2024,BMW,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,420.0,2,8.0,24.43,349.0
+2024,BMW,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,420.0,2,8.0,24.43,349.0
+2024,BMW,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,420.0,2,11.0,25.37,494.0
+2024,BMW,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,420.0,2,11.0,25.37,494.0
+2024,BMW,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,420.0,2,11.0,25.37,494.0
+2024,Cadillac,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,255.0,1,6.5,23.67,505.0
+2024,Chevrolet,Standard Pickup Trucks 4WD,All-Wheel Drive,416.0,2,12.7,33.17,724.0
+2024,Genesis,Small Sport Utility Vehicle 4WD,All-Wheel Drive,234.0,2,7.9,23.09,380.0
+2024,Genesis,Small Sport Utility Vehicle 4WD,All-Wheel Drive,234.0,2,7.2,21.13,425.0
+2024,Genesis,Small Sport Utility Vehicle 4WD,All-Wheel Drive,234.0,2,7.2,22.06,399.0
+2024,Genesis,Small Sport Utility Vehicle 4WD,All-Wheel Drive,320.0,2,7.2,22.99,378.0
+2024,GMC,Standard Pickup Trucks 4WD,All-Wheel Drive,416.0,2,10.5,39.4,505.0
+2024,GMC,Standard Pickup Trucks 4WD,All-Wheel Drive,416.0,2,10.5,39.16,480.0
+2024,GMC,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,10.5,39.4,505.0
+2024,GMC,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,10.5,39.16,480.0
+2024,Hyundai,Midsize Cars,All-Wheel Drive,239.0,2,7.5,16.92,509.0
+2024,Hyundai,Midsize Cars,All-Wheel Drive,239.0,2,7.5,20.51,435.0
+2024,Hyundai,Midsize Cars,Rear-Wheel Drive,168.0,1,7.5,14.91,581.0
+2024,Hyundai,Midsize Cars,Rear-Wheel Drive,168.0,1,7.5,18.02,491.0
+2024,Hyundai,Midsize Cars,Rear-Wheel Drive,111.0,1,6.1,15.53,386.0
+2024,Hyundai,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,168.0,1,8.5,18.64,488.0
+2024,Hyundai,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,125.0,1,6.3,19.26,354.0
+2024,Hyundai,Small Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,8.5,21.14,418.0
+2024,Jaguar,Small Sport Utility Vehicle 4WD,4-Wheel Drive,294.0,2,13.0,24.51,396.0
+2024,Jaguar,Small Sport Utility Vehicle 4WD,4-Wheel Drive,294.0,2,13.0,27.74,349.0
+2024,Kia,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,186.0,1,8.7,18.02,499.0
+2024,Kia,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,125.0,1,6.3,18.02,373.0
+2024,Kia,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,150.0,1,7.5,18.02,407.0
+2024,Kia,Small Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,7.7,25.48,351.0
+2024,Kia,Small Sport Utility Vehicle 4WD,All-Wheel Drive,239.0,2,8.4,19.3,454.0
+2024,Kia,Small Sport Utility Vehicle 4WD,All-Wheel Drive,239.0,2,8.4,21.75,406.0
+2024,Mercedes-Benz,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,330.0,2,10.75,28.58,378.0
+2024,MINI,Subcompact Cars,Front-Wheel Drive,135.0,1,4.0,19.08,183.0
+2024,Nissan,Midsize Cars,Front-Wheel Drive,110.0,1,8.0,18.91,240.0
+2024,Nissan,Midsize Cars,Front-Wheel Drive,160.0,1,11.0,19.13,341.0
+2024,Polestar,Midsize Cars,All-Wheel Drive,415.0,2,8.0,19.71,444.0
+2024,Polestar,Midsize Cars,All-Wheel Drive,416.0,2,8.0,20.51,428.0
+2024,Polestar,Midsize Cars,All-Wheel Drive,416.0,2,8.0,21.75,398.0
+2024,Polestar,Midsize Cars,Rear-Wheel Drive,220.0,1,8.0,18.16,515.0
+2024,Polestar,Midsize Cars,Rear-Wheel Drive,135.0,1,8.0,18.64,494.0
+2024,Volvo,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,110.0,1,8.0,19.57,478.0
+2024,Volvo,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,220.0,1,8.0,19.69,472.0
+2024,Volvo,Small Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,8.0,21.23,414.0
+2024,Volvo,Small Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,8.0,21.43,409.0
+2023,Fisker,Standard Sport Utility Vehicle 4WD,Part-time 4-Wheel Drive,414.0,2,10.5,22.88,579.0
+2023,Ford,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,198.0,1,7.4,20.7,402.0
+2023,Lexus,Small Sport Utility Vehicle 4WD,All-Wheel Drive,230.0,2,10.0,19.88,354.0
+2023,Lexus,Small Sport Utility Vehicle 4WD,All-Wheel Drive,230.0,2,10.0,22.37,315.0
+2023,Mazda,Midsize Cars,Front-Wheel Drive,81.0,1,5.3,22.84,161.0
+2023,Nissan,Small Station Wagons,All-Wheel Drive,320.0,2,13.0,22.77,438.0
+2023,Nissan,Small Station Wagons,All-Wheel Drive,320.0,2,10.0,21.93,330.0
+2023,Nissan,Small Station Wagons,All-Wheel Drive,320.0,2,14.0,23.24,430.0
+2023,Nissan,Small Station Wagons,All-Wheel Drive,320.0,2,14.0,24.13,414.0
+2023,Rivian,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,650.0,4,13.0,33.37,441.0
+2023,Rivian,Standard Sport Utility Vehicle 4WD,Part-time 4-Wheel Drive,416.0,2,13.0,30.6,494.0
+2023,Rivian,Standard Sport Utility Vehicle 4WD,Part-time 4-Wheel Drive,416.0,2,13.0,30.6,494.0
+2023,Rivian,Standard Sport Utility Vehicle 4WD,Part-time 4-Wheel Drive,416.0,2,13.0,26.86,566.0
+2023,Rivian,Standard Sport Utility Vehicle 4WD,Part-time 4-Wheel Drive,416.0,2,13.0,26.86,566.0
+2023,Rivian,Standard Sport Utility Vehicle 4WD,Part-time 4-Wheel Drive,416.0,2,13.0,27.8,549.0
+2023,Rivian,Standard Sport Utility Vehicle 4WD,Part-time 4-Wheel Drive,416.0,2,13.0,27.8,549.0
+2023,Rivian,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,416.0,2,13.0,26.86,566.0
+2023,Rivian,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,416.0,2,13.0,26.86,566.0
+2023,Rivian,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,416.0,2,13.0,27.64,549.0
+2023,Rivian,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,416.0,2,13.0,27.64,549.0
+2023,Vinfast,Special Purpose Vehicle 4WD,All-Wheel Drive,260.0,2,12.0,23.99,333.0
+2023,Vinfast,Special Purpose Vehicle 4WD,All-Wheel Drive,300.0,2,12.0,26.11,307.0
+2024,Audi,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,313.0,2,16.0,24.18,476.0
+2024,Audi,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,16.0,28.65,407.0
+2024,Audi,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,16.0,33.47,351.0
+2024,Audi,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,16.0,28.65,407.0
+2024,Audi,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,16.0,33.47,351.0
+2024,Chevrolet,Small Sport Utility Vehicle 4WD,All-Wheel Drive,134.0,2,9.5,21.88,449.0
+2024,Chevrolet,Standard Pickup Trucks 4WD,All-Wheel Drive,378.0,2,11.0,31.4,632.0
+2024,Genesis,Midsize Cars,All-Wheel Drive,272.0,2,9.0,21.75,454.0
+2024,Genesis,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,168.0,1,7.2,18.64,473.0
+2024,Hyundai,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,150.0,1,6.7,18.07,420.0
+2024,Kia,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,160.0,1,9.9,23.61,489.0
+2024,Kia,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,160.0,1,7.6,23.61,370.0
+2024,Kia,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,282.0,2,14.5,25.48,451.0
+2024,Kia,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,282.0,2,15.2,26.1,435.0
+2024,Lucid,Large Cars,Rear-Wheel Drive,330.0,1,10.0,15.27,674.0
+2024,Lucid,Large Cars,Rear-Wheel Drive,330.0,1,10.0,16.11,634.0
+2024,Lucid,Large Cars,All-Wheel Drive,950.0,3,13.0,19.97,687.0
+2024,Mercedes-Benz,Midsize Cars,All-Wheel Drive,330.0,2,10.5,28.58,370.0
+2024,Mercedes-Benz,Midsize Cars,All-Wheel Drive,216.0,2,10.5,22.99,451.0
+2024,Mercedes-Benz,Midsize Cars,Rear-Wheel Drive,215.0,1,10.5,21.53,480.0
+2024,Mercedes-Benz,Midsize Cars,All-Wheel Drive,300.0,2,10.5,21.53,480.0
+2024,Mercedes-Benz,Large Cars,All-Wheel Drive,620.0,2,12.75,25.48,491.0
+2024,Mercedes-Benz,Large Cars,All-Wheel Drive,270.0,2,12.75,21.83,555.0
+2024,Mercedes-Benz,Large Cars,Rear-Wheel Drive,265.0,1,12.5,21.75,566.0
+2024,Mercedes-Benz,Large Cars,All-Wheel Drive,530.0,2,11.5,21.68,555.0
+2024,Mercedes-Benz,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,620.0,2,12.75,27.34,451.0
+2024,Porsche,Compact Cars,All-Wheel Drive,384.0,2,10.5,26.27,378.0
+2024,Porsche,Compact Cars,All-Wheel Drive,404.0,2,9.5,25.48,332.0
+2024,Porsche,Compact Cars,All-Wheel Drive,737.0,2,10.5,25.29,396.0
+2024,Porsche,Compact Cars,All-Wheel Drive,416.0,2,10.5,26.16,375.0
+2024,Porsche,Compact Cars,Rear-Wheel Drive,280.0,1,10.5,25.59,389.0
+2024,Porsche,Compact Cars,Rear-Wheel Drive,280.0,1,9.5,25.27,335.0
+2024,Porsche,Compact Cars,All-Wheel Drive,416.0,2,10.5,25.98,383.0
+2024,Porsche,Compact Cars,All-Wheel Drive,416.0,2,10.5,27.66,357.0
+2024,Porsche,Midsize Cars,All-Wheel Drive,469.0,2,10.5,26.1,378.0
+2024,Porsche,Midsize Cars,All-Wheel Drive,409.0,2,10.5,26.72,375.0
+2024,Porsche,Midsize Cars,All-Wheel Drive,416.0,2,10.5,27.66,357.0
+2024,Rivian,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,622.0,4,13.0,33.37,441.0
+2024,Rolls-Royce,Compact Cars,All-Wheel Drive,550.0,2,11.0,26.82,451.0
+2024,Rolls-Royce,Compact Cars,All-Wheel Drive,550.0,2,11.0,28.51,425.0
+2024,Rolls-Royce,Compact Cars,All-Wheel Drive,550.0,2,11.0,25.77,468.0
+2024,Rolls-Royce,Compact Cars,All-Wheel Drive,550.0,2,11.0,28.25,428.0
+2024,Subaru,Small Sport Utility Vehicle 4WD,All-Wheel Drive,160.0,2,11.0,19.88,365.0
+2024,Subaru,Small Sport Utility Vehicle 4WD,All-Wheel Drive,160.0,2,11.0,20.51,357.0
+2024,Volkswagen,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,209.0,1,8.0,18.51,468.0
+2024,Volkswagen,Small Sport Utility Vehicle 4WD,All-Wheel Drive,314.0,2,8.0,20.49,423.0
+2024,Volkswagen,Small Sport Utility Vehicle 4WD,All-Wheel Drive,314.0,2,8.0,20.49,423.0
+2024,Vinfast,Special Purpose Vehicle 4WD,All-Wheel Drive,416.0,2,15.0,27.89,531.0
+2024,Vinfast,Special Purpose Vehicle 4WD,All-Wheel Drive,416.0,2,15.0,30.5,468.0
+2024,Acura,Standard Sport Utility Vehicle 2WD,All-Wheel Drive,355.0,2,11.0,24.0,489.0
+2024,Acura,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,255.0,1,11.0,23.26,504.0
+2024,Audi,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,230.0,2,12.0,20.96,415.0
+2024,Audi,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,230.0,2,12.0,20.96,415.0
+2024,Cadillac,Small Sport Utility Vehicle 4WD,All-Wheel Drive,375.0,2,6.7,23.6,494.0
+2024,Chevrolet,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,255.0,1,11.0,22.76,521.0
+2024,Chevrolet,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,180.0,1,9.4,19.32,513.0
+2024,Chevrolet,Small Sport Utility Vehicle 4WD,All-Wheel Drive,247.0,2,9.5,21.83,459.0
+2024,Fiat,Minicompact Cars,Front-Wheel Drive,87.0,1,6.2,18.13,240.0
+2024,Fiat,Minicompact Cars,Front-Wheel Drive,87.0,1,6.2,18.97,227.0
+2024,Ford,Standard Pickup Trucks 4WD,All-Wheel Drive,420.0,2,14.6,29.77,515.0
+2024,Ford,Standard Pickup Trucks 4WD,All-Wheel Drive,420.0,2,14.6,31.51,483.0
+2024,Ford,Standard Pickup Trucks 4WD,All-Wheel Drive,420.0,2,10.1,29.77,515.0
+2024,Ford,Standard Pickup Trucks 4WD,All-Wheel Drive,337.0,2,11.9,30.67,386.0
+2024,Ford,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,197.0,1,7.1,20.47,402.0
+2024,Ford,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,216.0,1,10.1,19.78,515.0
+2024,Ford,Small Sport Utility Vehicle 4WD,All-Wheel Drive,198.0,2,7.5,22.94,370.0
+2024,Ford,Small Sport Utility Vehicle 4WD,All-Wheel Drive,288.0,2,10.0,21.25,483.0
+2024,Ford,Small Sport Utility Vehicle 4WD,All-Wheel Drive,420.0,2,9.9,23.21,451.0
+2024,Ford,Small Sport Utility Vehicle 4WD,All-Wheel Drive,420.0,2,10.2,24.46,426.0
+2024,Honda,Standard Sport Utility Vehicle 2WD,Front-Wheel Drive,212.0,1,9.5,21.11,476.0
+2024,Honda,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,247.0,2,9.5,22.84,439.0
+2024,Honda,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,247.0,2,9.5,22.08,452.0
+2024,Hyundai,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,99.0,1,5.1,17.73,322.0
+2024,Lexus,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,150.0,1,11.0,16.78,428.0
+2024,Lexus,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,150.0,1,11.0,19.57,360.0
+2024,Lexus,Small Sport Utility Vehicle 4WD,All-Wheel Drive,230.0,2,10.0,19.35,354.0
+2024,Lexus,Small Sport Utility Vehicle 4WD,All-Wheel Drive,230.0,2,10.0,22.37,315.0
+2024,Lucid,Large Cars,All-Wheel Drive,611.0,2,13.0,16.24,830.0
+2024,Lucid,Large Cars,All-Wheel Drive,611.0,2,13.0,17.31,781.0
+2024,Lucid,Large Cars,All-Wheel Drive,611.0,2,13.0,18.51,724.0
+2024,Lucid,Large Cars,All-Wheel Drive,611.0,2,10.0,15.72,661.0
+2024,Lucid,Large Cars,All-Wheel Drive,611.0,2,10.0,17.06,615.0
+2024,Lucid,Large Cars,All-Wheel Drive,611.0,2,10.0,17.79,587.0
+2024,Maserati,Subcompact Cars,All-Wheel Drive,825.0,3,17.0,25.6,375.0
+2024,Maserati,Subcompact Cars,All-Wheel Drive,825.0,3,12.7,23.94,389.0
+2024,Mercedes-Benz,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,140.0,1,8.25,19.55,404.0
+2024,Mercedes-Benz,Small Sport Utility Vehicle 4WD,All-Wheel Drive,168.0,2,8.25,24.1,333.0
+2024,Mercedes-Benz,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,215.0,1,12.5,22.19,494.0
+2024,Mercedes-Benz,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,265.0,1,14.0,23.96,546.0
+2024,Mercedes-Benz,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,185.0,2,10.75,24.85,426.0
+2024,Mercedes-Benz,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,135.0,2,11.5,23.97,454.0
+2024,Mercedes-Benz,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,400.0,2,14.0,25.48,531.0
+2024,Mercedes-Benz,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,400.0,2,14.0,25.48,531.0
+2024,Mercedes-Benz,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,484.0,2,14.0,26.1,517.0
+2024,Nissan,Small Station Wagons,All-Wheel Drive,320.0,2,10.0,21.93,330.0
+2024,Nissan,Small Station Wagons,Front-Wheel Drive,160.0,1,10.0,20.67,348.0
+2024,Nissan,Small Station Wagons,All-Wheel Drive,320.0,2,13.0,22.77,438.0
+2024,Nissan,Small Station Wagons,Front-Wheel Drive,178.0,1,14.0,21.36,465.0
+2024,Nissan,Small Station Wagons,All-Wheel Drive,320.0,2,14.0,23.24,430.0
+2024,Nissan,Small Station Wagons,All-Wheel Drive,320.0,2,14.0,24.13,414.0
+2024,Nissan,Small Station Wagons,Front-Wheel Drive,178.0,1,14.0,20.33,489.0
+2024,Porsche,Midsize Cars,All-Wheel Drive,425.0,2,10.5,26.59,370.0
+2024,Rivian,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,416.0,2,13.0,30.6,494.0
+2024,Rivian,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,416.0,2,14.5,28.66,571.0
+2024,Rivian,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,416.0,2,12.5,32.09,446.0
+2024,Rivian,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,416.0,2,13.0,30.6,494.0
+2024,Rivian,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,416.0,2,14.5,28.66,571.0
+2024,Rivian,Standard Pickup Trucks 4WD,All-Wheel Drive,648.0,4,13.0,33.37,441.0
+2024,Rivian,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,416.0,2,12.5,32.09,446.0
+2024,Rivian,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,416.0,2,13.0,26.86,566.0
+2024,Rivian,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,416.0,2,13.0,27.64,549.0
+2024,Rivian,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,416.0,2,14.5,24.82,660.0
+2024,Rivian,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,416.0,2,14.5,26.91,612.0
+2024,Rivian,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,416.0,2,11.5,28.09,435.0
+2024,Rivian,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,416.0,2,11.5,29.85,410.0
+2024,Rivian,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,416.0,2,12.5,27.22,507.0
+2024,Rivian,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,416.0,2,12.5,29.05,483.0
+2024,Rivian,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,416.0,2,13.0,26.86,566.0
+2024,Rivian,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,416.0,2,13.0,27.64,549.0
+2024,Rivian,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,416.0,2,14.5,24.82,660.0
+2024,Rivian,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,416.0,2,14.5,26.91,612.0
+2024,Rivian,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,416.0,2,12.5,27.22,507.0
+2024,Rivian,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,416.0,2,12.5,29.05,483.0
+2024,Rivian,Standard Pickup Trucks 4WD,All-Wheel Drive,648.0,4,13.0,32.55,465.0
+2024,Rivian,Standard Pickup Trucks 4WD,All-Wheel Drive,648.0,4,13.0,28.67,528.0
+2024,Rivian,Standard Pickup Trucks 4WD,All-Wheel Drive,648.0,4,13.0,30.67,488.0
+2024,Rivian,Standard Sport Utility Vehicle 4WD,Part-time 4-Wheel Drive,416.0,2,13.0,30.6,494.0
+2024,Rivian,Standard Sport Utility Vehicle 4WD,Part-time 4-Wheel Drive,416.0,2,14.5,28.66,571.0
+2024,Rivian,Standard Sport Utility Vehicle 4WD,Part-time 4-Wheel Drive,416.0,2,12.5,32.09,446.0
+2024,Rivian,Standard Sport Utility Vehicle 4WD,Part-time 4-Wheel Drive,416.0,2,13.0,30.6,494.0
+2024,Rivian,Standard Sport Utility Vehicle 4WD,Part-time 4-Wheel Drive,416.0,2,14.5,28.66,571.0
+2024,Rivian,Standard Sport Utility Vehicle 4WD,Part-time 4-Wheel Drive,416.0,2,12.5,32.09,446.0
+2024,Rivian,Standard Sport Utility Vehicle 4WD,Part-time 4-Wheel Drive,416.0,2,13.0,26.86,566.0
+2024,Rivian,Standard Sport Utility Vehicle 4WD,Part-time 4-Wheel Drive,416.0,2,13.0,27.8,549.0
+2024,Rivian,Standard Sport Utility Vehicle 4WD,Part-time 4-Wheel Drive,416.0,2,14.5,25.4,644.0
+2024,Rivian,Standard Sport Utility Vehicle 4WD,Part-time 4-Wheel Drive,416.0,2,14.5,26.91,612.0
+2024,Rivian,Standard Sport Utility Vehicle 4WD,Part-time 4-Wheel Drive,416.0,2,11.5,28.09,435.0
+2024,Rivian,Standard Sport Utility Vehicle 4WD,Part-time 4-Wheel Drive,416.0,2,11.5,29.85,410.0
+2024,Rivian,Standard Sport Utility Vehicle 4WD,Part-time 4-Wheel Drive,416.0,2,12.5,27.22,507.0
+2024,Rivian,Standard Sport Utility Vehicle 4WD,Part-time 4-Wheel Drive,416.0,2,12.5,29.05,483.0
+2024,Rivian,Standard Sport Utility Vehicle 4WD,Part-time 4-Wheel Drive,416.0,2,13.0,26.86,566.0
+2024,Rivian,Standard Sport Utility Vehicle 4WD,Part-time 4-Wheel Drive,416.0,2,13.0,27.8,549.0
+2024,Rivian,Standard Sport Utility Vehicle 4WD,Part-time 4-Wheel Drive,416.0,2,14.5,25.4,644.0
+2024,Rivian,Standard Sport Utility Vehicle 4WD,Part-time 4-Wheel Drive,416.0,2,14.5,26.91,612.0
+2024,Rivian,Standard Sport Utility Vehicle 4WD,Part-time 4-Wheel Drive,416.0,2,12.5,29.05,483.0
+2024,Rivian,Standard Sport Utility Vehicle 4WD,Part-time 4-Wheel Drive,416.0,2,12.5,27.22,507.0
+2024,Rivian,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,648.0,4,13.0,32.55,465.0
+2024,Rivian,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,648.0,4,13.0,29.45,517.0
+2024,Rivian,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,648.0,4,13.0,30.67,488.0
+2024,Tesla,Midsize Cars,All-Wheel Drive,275.0,2,9.4,16.05,550.0
+2024,Tesla,Midsize Cars,Rear-Wheel Drive,192.0,1,10.5,15.81,438.0
+2024,Tesla,Large Cars,All-Wheel Drive,494.0,2,15.0,17.21,647.0
+2024,Tesla,Large Cars,All-Wheel Drive,750.0,3,15.0,19.55,578.0
+2024,Tesla,Large Cars,All-Wheel Drive,750.0,3,15.0,21.9,515.0
+2024,Tesla,Small Sport Utility Vehicle 4WD,All-Wheel Drive,291.0,2,9.0,17.83,499.0
+2024,Tesla,Small Sport Utility Vehicle 4WD,All-Wheel Drive,378.0,2,9.8,20.02,449.0
+2024,Tesla,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,486.0,2,14.0,20.89,539.0
+2024,Tesla,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,690.0,3,14.0,21.46,525.0
+2024,Tesla,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,690.0,3,14.0,23.15,483.0
+2024,Toyota,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,150.0,1,11.0,17.6,406.0
+2024,Toyota,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,150.0,1,11.0,18.73,380.0
+2024,Toyota,Small Sport Utility Vehicle 4WD,All-Wheel Drive,160.0,2,11.0,19.88,367.0
+2024,Toyota,Small Sport Utility Vehicle 4WD,All-Wheel Drive,160.0,2,11.0,20.51,357.0
+2024,Volkswagen,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,210.0,1,6.0,19.61,332.0
+2024,Volkswagen,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,210.0,1,8.0,18.51,468.0
+2024,Volkswagen,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,210.0,1,6.0,19.61,332.0
+2025,Audi,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,210.0,1,12.0,18.27,463.0
+2025,Audi,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,420.0,2,14.0,21.15,494.0
+2025,Audi,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,420.0,2,14.0,21.94,475.0
+2025,Audi,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,313.0,2,16.0,26.83,438.0
+2025,Audi,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,313.0,2,16.0,28.29,409.0
+2025,Audi,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,313.0,2,16.0,26.83,438.0
+2025,Audi,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,313.0,2,16.0,28.29,409.0
+2025,Audi,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,280.0,2,14.0,23.49,443.0
+2025,Audi,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,295.0,2,16.0,29.92,389.0
+2025,Audi,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,295.0,2,16.0,34.96,335.0
+2025,Audi,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,295.0,2,16.0,29.92,389.0
+2025,Audi,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,295.0,2,16.0,34.96,335.0
+2025,BMW,Compact Cars,Rear-Wheel Drive,250.0,1,8.0,18.12,428.0
+2025,BMW,Compact Cars,Rear-Wheel Drive,250.0,1,8.0,19.72,393.0
+2025,BMW,Compact Cars,Rear-Wheel Drive,250.0,1,10.0,18.74,512.0
+2025,BMW,Compact Cars,Rear-Wheel Drive,250.0,1,10.0,20.08,475.0
+2025,BMW,Compact Cars,All-Wheel Drive,420.0,2,10.0,22.29,430.0
+2025,BMW,Compact Cars,All-Wheel Drive,420.0,2,10.0,26.2,365.0
+2025,BMW,Compact Cars,All-Wheel Drive,420.0,2,10.0,20.76,462.0
+2025,BMW,Compact Cars,All-Wheel Drive,420.0,2,10.0,22.36,431.0
+2025,BMW,Compact Cars,Rear-Wheel Drive,250.0,1,10.0,20.01,475.0
+2025,BMW,Compact Cars,Rear-Wheel Drive,250.0,1,10.0,21.26,447.0
+2025,BMW,Compact Cars,Rear-Wheel Drive,250.0,1,10.0,21.92,436.0
+2025,BMW,Compact Cars,All-Wheel Drive,420.0,2,10.0,23.32,407.0
+2025,BMW,Compact Cars,All-Wheel Drive,420.0,2,10.0,23.76,402.0
+2025,BMW,Compact Cars,All-Wheel Drive,420.0,2,10.0,24.93,385.0
+2025,BMW,Compact Cars,All-Wheel Drive,420.0,2,10.0,22.46,428.0
+2025,BMW,Compact Cars,All-Wheel Drive,442.0,2,10.0,22.55,422.0
+2025,BMW,Compact Cars,All-Wheel Drive,442.0,2,10.0,24.12,399.0
+2025,BMW,Large Cars,Rear-Wheel Drive,335.0,1,12.0,23.73,505.0
+2025,BMW,Large Cars,Rear-Wheel Drive,335.0,1,12.0,24.78,484.0
+2025,BMW,Large Cars,Rear-Wheel Drive,335.0,1,12.0,24.2,494.0
+2025,BMW,Large Cars,All-Wheel Drive,550.0,2,12.0,27.93,431.0
+2025,BMW,Large Cars,All-Wheel Drive,550.0,2,12.0,26.38,459.0
+2025,BMW,Large Cars,All-Wheel Drive,420.0,2,12.0,23.87,501.0
+2025,BMW,Large Cars,All-Wheel Drive,420.0,2,12.0,25.32,476.0
+2025,BMW,Large Cars,All-Wheel Drive,420.0,2,12.0,24.09,496.0
+2025,BMW,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,550.0,2,13.0,27.59,457.0
+2025,BMW,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,550.0,2,13.0,27.18,459.0
+2025,BMW,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,420.0,2,9.0,24.39,349.0
+2025,BMW,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,420.0,2,9.0,25.25,340.0
+2025,BMW,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,420.0,2,9.0,23.97,352.0
+2025,BMW,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,420.0,2,13.0,25.22,497.0
+2025,BMW,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,420.0,2,13.0,25.75,488.0
+2025,BMW,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,420.0,2,13.0,25.78,486.0
+2025,Bugatti Rimac,Two Seaters,4-Wheel Drive,1352.0,4,17.6,39.31,328.0
+2025,Chevrolet,Small Sport Utility Vehicle 4WD,All-Wheel Drive,247.0,2,9.5,22.15,455.0
+2025,GMC,Standard Pickup Trucks 4WD,All-Wheel Drive,410.0,2,11.2,39.71,512.0
+2025,GMC,Standard Pickup Trucks 4WD,All-Wheel Drive,585.0,3,11.2,40.48,502.0
+2025,GMC,Standard Pickup Trucks 4WD,All-Wheel Drive,410.0,2,11.2,44.56,454.0
+2025,GMC,Standard Pickup Trucks 4WD,All-Wheel Drive,605.0,3,11.2,43.67,465.0
+2025,GMC,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,410.0,2,11.2,39.73,507.0
+2025,GMC,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,605.0,3,11.2,40.48,502.0
+2025,GMC,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,410.0,2,11.2,44.56,454.0
+2025,GMC,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,605.0,3,11.2,43.67,465.0
+2025,Genesis,Midsize Cars,All-Wheel Drive,272.0,2,9.0,21.75,454.0
+2025,Genesis,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,168.0,1,7.2,18.64,473.0
+2025,Genesis,Small Sport Utility Vehicle 4WD,All-Wheel Drive,234.0,2,7.9,23.09,380.0
+2025,Genesis,Small Sport Utility Vehicle 4WD,All-Wheel Drive,234.0,2,7.2,22.06,399.0
+2025,Genesis,Small Sport Utility Vehicle 4WD,All-Wheel Drive,234.0,2,7.2,22.89,378.0
+2025,Genesis,Small Sport Utility Vehicle 4WD,All-Wheel Drive,234.0,2,7.2,21.13,425.0
+2025,Hyundai,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,150.0,1,6.7,18.07,420.0
+2025,Hyundai,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,150.0,1,6.9,19.26,370.0
+2025,Hyundai,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,99.0,1,5.1,17.73,322.0
+2025,Hyundai,Small Sport Utility Vehicle 4WD,All-Wheel Drive,448.0,2,8.7,26.72,356.0
+2025,Hyundai,Midsize Cars,All-Wheel Drive,239.0,2,7.5,17.4,509.0
+2025,Hyundai,Midsize Cars,Rear-Wheel Drive,168.0,1,7.5,16.16,550.0
+2025,Hyundai,Midsize Cars,Rear-Wheel Drive,168.0,1,7.5,18.5,468.0
+2025,Hyundai,Midsize Cars,Rear-Wheel Drive,111.0,1,6.1,15.53,386.0
+2025,Hyundai,Midsize Cars,All-Wheel Drive,239.0,2,7.5,20.21,435.0
+2025,Kia,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,160.0,1,15.2,23.61,489.0
+2025,Kia,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,160.0,1,11.4,23.61,370.0
+2025,Kia,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,282.0,2,14.5,25.48,451.0
+2025,Kia,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,282.0,2,15.2,26.1,435.0
+2025,Kia,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,150.0,1,7.5,18.64,407.0
+2025,Lucid,Large Cars,All-Wheel Drive,611.0,2,13.0,16.42,824.0
+2025,Lucid,Large Cars,All-Wheel Drive,611.0,2,13.0,17.5,772.0
+2025,Lucid,Large Cars,All-Wheel Drive,611.0,2,13.0,18.72,718.0
+2025,Lucid,Large Cars,Rear-Wheel Drive,330.0,1,10.0,14.38,676.0
+2025,Lucid,Large Cars,Rear-Wheel Drive,330.0,1,10.0,16.22,599.0
+2025,Lucid,Large Cars,All-Wheel Drive,930.0,3,13.0,19.97,687.0
+2025,Lucid,Large Cars,All-Wheel Drive,611.0,2,10.0,15.9,653.0
+2025,Lucid,Large Cars,All-Wheel Drive,611.0,2,10.0,17.24,607.0
+2025,Lucid,Large Cars,All-Wheel Drive,611.0,2,10.0,17.98,581.0
+2025,Maserati,Small Sport Utility Vehicle 4WD,All-Wheel Drive,410.0,2,11.0,27.9,394.0
+2025,Maserati,Small Sport Utility Vehicle 4WD,All-Wheel Drive,410.0,2,11.0,33.57,332.0
+2025,Mercedes-Benz,Midsize Cars,All-Wheel Drive,330.0,2,10.75,29.83,354.0
+2025,Mercedes-Benz,Midsize Cars,All-Wheel Drive,215.0,2,10.75,24.23,430.0
+2025,Mercedes-Benz,Midsize Cars,Rear-Wheel Drive,215.0,1,11.5,22.37,496.0
+2025,Mercedes-Benz,Midsize Cars,All-Wheel Drive,215.0,2,11.5,24.85,428.0
+2025,Mercedes-Benz,Large Cars,All-Wheel Drive,484.0,2,12.75,26.62,507.0
+2025,Mercedes-Benz,Large Cars,All-Wheel Drive,484.0,2,12.75,22.99,591.0
+2025,Mercedes-Benz,Large Cars,Rear-Wheel Drive,265.0,1,14.0,21.13,628.0
+2025,Mercedes-Benz,Large Cars,All-Wheel Drive,484.0,2,11.5,22.37,597.0
+2025,Mercedes-Benz,Midsize Station Wagons,Rear-Wheel Drive,215.0,1,11.5,22.42,486.0
+2025,Mercedes-Benz,Midsize Station Wagons,All-Wheel Drive,215.0,2,11.5,26.1,425.0
+2025,Mercedes-Benz,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,265.0,1,14.0,25.48,520.0
+2025,Mercedes-Benz,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,460.0,2,10.75,28.29,370.0
+2025,Mercedes-Benz,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,215.0,2,10.75,26.1,407.0
+2025,Mercedes-Benz,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,484.0,2,14.0,26.72,502.0
+2025,Mercedes-Benz,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,484.0,2,14.0,26.1,510.0
+2025,Mercedes-Benz,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,484.0,2,14.0,27.07,486.0
+2025,MINI,Small Sport Utility Vehicle 4WD,All-Wheel Drive,280.0,2,8.0,21.74,341.0
+2025,MINI,Small Sport Utility Vehicle 4WD,All-Wheel Drive,280.0,2,8.0,22.9,328.0
+2025,Nissan,Midsize Cars,Front-Wheel Drive,110.0,1,8.0,18.91,240.0
+2025,Nissan,Midsize Cars,Front-Wheel Drive,160.0,1,11.0,19.13,341.0
+2025,Polestar,Midsize Cars,All-Wheel Drive,415.0,2,8.0,20.83,447.0
+2025,Polestar,Midsize Cars,All-Wheel Drive,405.0,2,8.0,21.75,431.0
+2025,Polestar,Midsize Cars,All-Wheel Drive,405.0,2,8.0,22.91,409.0
+2025,Polestar,Midsize Cars,Rear-Wheel Drive,220.0,1,8.0,18.42,505.0
+2025,Polestar,Midsize Cars,Rear-Wheel Drive,220.0,1,8.0,19.16,483.0
+2025,Polestar,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,200.0,1,11.0,22.99,483.0
+2025,Polestar,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,353.0,2,10.0,24.23,499.0
+2025,Polestar,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,307.0,2,10.0,23.84,507.0
+2025,Polestar,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,373.0,2,10.0,26.1,462.0
+2025,Polestar,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,327.0,2,10.0,27.18,449.0
+2025,Polestar,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,11.0,25.48,438.0
+2025,Porsche,Compact Cars,All-Wheel Drive,436.0,2,13.0,22.52,507.0
+2025,Porsche,Compact Cars,Rear-Wheel Drive,320.0,1,13.0,22.74,512.0
+2025,Porsche,Compact Cars,Rear-Wheel Drive,320.0,1,11.5,23.04,441.0
+2025,Rivian,Standard Pickup Trucks 4WD,4-Wheel Drive,528.0,2,12.0,29.13,470.0
+2025,Rivian,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,528.0,2,15.0,26.86,595.0
+2025,Rivian,Standard Pickup Trucks 4WD,4-Wheel Drive,528.0,2,12.0,29.13,470.0
+2025,Rivian,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,528.0,2,15.0,26.86,595.0
+2025,Rivian,Standard Pickup Trucks 4WD,4-Wheel Drive,528.0,2,12.0,25.42,531.0
+2025,Rivian,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,528.0,2,15.0,26.08,612.0
+2025,Rivian,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,528.0,2,15.0,24.13,676.0
+2025,Rivian,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,416.0,2,9.5,26.64,415.0
+2025,Rivian,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,416.0,2,9.5,24.78,435.0
+2025,Rivian,Standard Pickup Trucks 4WD,4-Wheel Drive,528.0,2,12.0,25.42,531.0
+2025,Rivian,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,528.0,2,15.0,26.08,612.0
+2025,Rivian,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,528.0,2,15.0,24.13,676.0
+2025,Rivian,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,528.0,2,12.0,29.13,470.0
+2025,Rivian,Standard Sport Utility Vehicle 4WD,Part-time 4-Wheel Drive,528.0,2,15.0,26.86,595.0
+2025,Rivian,Standard Sport Utility Vehicle 4WD,Part-time 4-Wheel Drive,528.0,2,15.0,26.86,595.0
+2025,Rivian,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,528.0,2,12.0,29.13,470.0
+2025,Rivian,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,528.0,2,12.0,25.42,531.0
+2025,Rivian,Standard Sport Utility Vehicle 4WD,Part-time 4-Wheel Drive,528.0,2,15.0,26.08,612.0
+2025,Rivian,Standard Sport Utility Vehicle 4WD,Part-time 4-Wheel Drive,528.0,2,15.0,24.82,660.0
+2025,Rivian,Standard Sport Utility Vehicle 4WD,Part-time 4-Wheel Drive,416.0,2,9.5,26.64,415.0
+2025,Rivian,Standard Sport Utility Vehicle 4WD,Part-time 4-Wheel Drive,416.0,2,9.5,24.78,435.0
+2025,Rivian,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,416.0,2,12.0,25.42,531.0
+2025,Rivian,Standard Sport Utility Vehicle 4WD,Part-time 4-Wheel Drive,416.0,2,15.0,26.08,612.0
+2025,Rivian,Standard Sport Utility Vehicle 4WD,Part-time 4-Wheel Drive,416.0,2,15.0,24.82,660.0
+2025,Rolls-Royce,Compact Cars,All-Wheel Drive,550.0,2,12.0,28.23,428.0
+2025,Rolls-Royce,Compact Cars,All-Wheel Drive,550.0,2,12.0,30.0,404.0
+2025,Rolls-Royce,Compact Cars,All-Wheel Drive,550.0,2,12.0,27.12,446.0
+2025,Rolls-Royce,Compact Cars,All-Wheel Drive,550.0,2,12.0,29.72,407.0
+2025,Volkswagen,Minivan - 2WD,Rear-Wheel Drive,210.0,1,9.0,25.33,377.0
+2025,Volkswagen,Minivan - 4WD,All-Wheel Drive,290.0,2,9.0,26.08,372.0
+2025,Volvo,Small Sport Utility Vehicle 4WD,All-Wheel Drive,350.0,2,8.0,21.65,431.0
+2025,Volvo,Small Sport Utility Vehicle 4WD,All-Wheel Drive,400.0,2,8.0,22.35,418.0
+2025,Volvo,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,220.0,1,8.0,19.69,480.0
+2025,Volvo,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,185.0,1,8.0,18.44,414.0
+2025,Volvo,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,185.0,1,8.0,18.12,420.0
+2025,Volvo,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,220.0,1,8.0,19.7,476.0
+2024,Bugatti Rimac,Two Seaters,4-Wheel Drive,1352.0,4,17.6,39.31,328.0
+2024,Fisker,Standard Sport Utility Vehicle 2WD,Front-Wheel Drive,207.0,1,12.0,22.75,372.0
+2024,Fisker,Standard Sport Utility Vehicle 2WD,Front-Wheel Drive,207.0,1,12.0,26.55,312.0
+2024,Mercedes-Benz,Small Sport Utility Vehicle 4WD,All-Wheel Drive,168.0,2,8.32,24.04,330.0
+2024,Tesla,Midsize Cars,All-Wheel Drive,416.0,2,10.0,16.39,549.0
+2024,Tesla,Small Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,9.0,17.79,496.0
+2024,Tesla,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,221.0,1,11.0,17.44,515.0
+2024,Tesla,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,203.0,1,9.0,17.4,418.0
+2025,Audi,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,250.0,2,12.0,20.96,415.0
+2025,Audi,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,250.0,2,12.0,20.96,415.0
+2025,Audi,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,225.0,1,14.0,20.97,499.0
+2025,Audi,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,225.0,1,14.0,21.88,480.0
+2025,Audi,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,225.0,1,14.0,20.19,517.0
+2025,Audi,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,420.0,2,14.0,20.32,513.0
+2025,Audi,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,420.0,2,14.0,21.3,491.0
+2025,Audi,Subcompact Cars,All-Wheel Drive,416.0,2,15.5,23.39,483.0
+2025,Audi,Subcompact Cars,All-Wheel Drive,416.0,2,15.5,23.92,473.0
+2025,Audi,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,560.0,2,14.0,22.91,455.0
+2025,Cadillac,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,255.0,1,11.2,22.37,525.0
+2025,Cadillac,Small Sport Utility Vehicle 4WD,All-Wheel Drive,375.0,2,11.2,23.37,513.0
+2025,Cadillac,Small Sport Utility Vehicle 4WD,All-Wheel Drive,375.0,2,7.0,24.7,488.0
+2025,Chevrolet,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,255.0,1,11.2,21.96,538.0
+2025,Chevrolet,Small Sport Utility Vehicle 4WD,All-Wheel Drive,247.0,2,9.5,20.27,494.0
+2025,Chevrolet,Small Sport Utility Vehicle 4WD,All-Wheel Drive,247.0,2,9.5,21.85,494.0
+2025,Chevrolet,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,180.0,1,9.5,19.41,513.0
+2025,Chevrolet,Standard Pickup Trucks 4WD,4-Wheel Drive,378.0,2,13.3,30.99,792.0
+2025,Chevrolet,Standard Pickup Trucks 4WD,4-Wheel Drive,378.0,2,18.6,30.03,679.0
+2025,Chevrolet,Standard Pickup Trucks 4WD,4-Wheel Drive,378.0,2,18.6,31.01,657.0
+2025,Chevrolet,Standard Pickup Trucks 4WD,4-Wheel Drive,378.0,2,11.5,32.54,628.0
+2025,Chevrolet,Standard Pickup Trucks 4WD,4-Wheel Drive,378.0,2,11.5,30.03,679.0
+2025,Fiat,Minicompact Cars,Front-Wheel Drive,87.0,1,6.2,18.13,240.0
+2025,Fiat,Minicompact Cars,Front-Wheel Drive,87.0,1,6.2,18.97,227.0
+2025,Ford,Standard Pickup Trucks 4WD,All-Wheel Drive,420.0,2,14.6,29.77,515.0
+2025,Ford,Standard Pickup Trucks 4WD,All-Wheel Drive,420.0,2,10.1,29.77,515.0
+2025,Ford,Standard Pickup Trucks 4WD,All-Wheel Drive,337.0,2,11.9,30.67,386.0
+2025,Ford,Standard Pickup Trucks 4WD,All-Wheel Drive,420.0,2,14.6,31.51,483.0
+2025,GMC,Standard Pickup Trucks 4WD,4-Wheel Drive,378.0,2,11.5,32.54,628.0
+2025,Hyundai,Small Sport Utility Vehicle 4WD,All-Wheel Drive,239.0,2,8.2,19.68,467.0
+2025,Hyundai,Small Sport Utility Vehicle 4WD,All-Wheel Drive,239.0,2,8.2,21.44,433.0
+2025,Hyundai,Small Sport Utility Vehicle 4WD,All-Wheel Drive,239.0,2,8.2,22.22,417.0
+2025,Hyundai,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,168.0,1,9.1,18.64,512.0
+2025,Hyundai,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,125.0,1,6.3,18.02,394.0
+2025,Maserati,Subcompact Cars,All-Wheel Drive,825.0,3,9.0,25.53,369.0
+2025,Maserati,Subcompact Cars,All-Wheel Drive,825.0,3,9.0,25.17,375.0
+2025,Mercedes-Benz,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,432.0,4,14.0,33.55,385.0
+2025,Nissan,Small Sport Utility Vehicle 4WD,All-Wheel Drive,320.0,2,10.0,21.93,330.0
+2025,Nissan,Small Sport Utility Vehicle 4WD,All-Wheel Drive,320.0,2,13.0,22.77,438.0
+2025,Nissan,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,178.0,1,14.0,21.36,465.0
+2025,Nissan,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,160.0,1,10.0,20.67,348.0
+2025,Nissan,Small Sport Utility Vehicle 4WD,All-Wheel Drive,320.0,2,14.0,23.24,430.0
+2025,Nissan,Small Sport Utility Vehicle 4WD,All-Wheel Drive,320.0,2,14.0,24.13,414.0
+2025,Polestar,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,220.0,1,10.0,22.38,550.0
+2025,Polestar,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,220.0,1,10.0,21.94,563.0
+2025,Polestar,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,220.0,1,10.0,22.96,536.0
+2025,Porsche,Small Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,11.5,21.41,496.0
+2025,Porsche,Small Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,11.5,23.09,463.0
+2025,Porsche,Small Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,11.5,22.94,463.0
+2025,Porsche,Midsize Cars,All-Wheel Drive,504.0,2,13.0,25.79,446.0
+2025,Porsche,Midsize Cars,All-Wheel Drive,325.0,2,13.0,26.25,438.0
+2025,Porsche,Compact Cars,All-Wheel Drive,435.0,2,13.0,23.95,475.0
+2025,Porsche,Compact Cars,All-Wheel Drive,384.0,2,11.5,23.89,406.0
+2025,Porsche,Compact Cars,All-Wheel Drive,409.0,2,13.0,24.45,470.0
+2025,Porsche,Compact Cars,All-Wheel Drive,409.0,2,13.0,22.49,510.0
+2025,Porsche,Midsize Cars,All-Wheel Drive,391.0,2,13.0,26.69,426.0
+2025,Porsche,Compact Cars,All-Wheel Drive,403.0,2,13.0,25.4,444.0
+2025,Porsche,Compact Cars,All-Wheel Drive,409.0,2,13.0,25.94,433.0
+2025,Porsche,Compact Cars,All-Wheel Drive,425.0,2,13.0,26.57,428.0
+2025,Porsche,Compact Cars,All-Wheel Drive,488.0,2,13.0,23.33,480.0
+2025,Porsche,Midsize Cars,All-Wheel Drive,403.0,2,13.0,27.1,420.0
+2025,Rivian,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,528.0,2,12.0,27.57,465.0
+2025,Rivian,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,528.0,2,12.0,27.57,465.0
+2025,Rivian,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,690.0,3,15.0,30.97,529.0
+2025,Rivian,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,528.0,2,12.0,26.64,483.0
+2025,Rivian,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,528.0,2,12.0,24.53,529.0
+2025,Rivian,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,528.0,2,12.0,26.8,510.0
+2025,Rivian,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,528.0,2,12.0,26.64,483.0
+2025,Rivian,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,528.0,2,12.0,24.53,529.0
+2025,Rivian,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,528.0,2,12.0,26.8,510.0
+2025,Rivian,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,635.0,3,15.0,27.7,597.0
+2025,Rivian,Standard Pickup Trucks 4WD,4-Wheel Drive,528.0,2,12.0,27.57,465.0
+2025,Rivian,Standard Pickup Trucks 4WD,4-Wheel Drive,528.0,2,12.0,27.57,465.0
+2025,Rivian,Standard Pickup Trucks 4WD,4-Wheel Drive,635.0,3,15.0,30.97,529.0
+2025,Rivian,Standard Pickup Trucks 4WD,4-Wheel Drive,528.0,2,12.0,26.64,483.0
+2025,Rivian,Standard Pickup Trucks 4WD,4-Wheel Drive,528.0,2,12.0,24.53,529.0
+2025,Rivian,Standard Pickup Trucks 4WD,4-Wheel Drive,528.0,2,12.0,26.8,510.0
+2025,Rivian,Standard Pickup Trucks 4WD,4-Wheel Drive,528.0,2,12.0,26.64,483.0
+2025,Rivian,Standard Pickup Trucks 4WD,4-Wheel Drive,528.0,2,12.0,24.53,529.0
+2025,Rivian,Standard Pickup Trucks 4WD,4-Wheel Drive,528.0,2,12.0,26.8,510.0
+2025,Rivian,Standard Pickup Trucks 4WD,4-Wheel Drive,635.0,3,15.0,27.7,597.0
+2025,Subaru,Small Sport Utility Vehicle 4WD,All-Wheel Drive,160.0,2,11.0,19.88,365.0
+2025,Subaru,Small Sport Utility Vehicle 4WD,All-Wheel Drive,160.0,2,11.0,20.51,357.0
+2025,Tesla,Midsize Cars,All-Wheel Drive,173.0,2,11.7,16.39,557.0
+2025,Tesla,Midsize Cars,Rear-Wheel Drive,192.0,1,11.7,15.31,584.0
+2025,Tesla,Large Cars,All-Wheel Drive,750.0,3,14.0,20.19,560.0
+2025,Tesla,Large Cars,All-Wheel Drive,750.0,3,14.0,22.46,502.0
+2025,Tesla,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,690.0,3,14.0,22.29,505.0
+2025,Tesla,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,690.0,3,14.0,23.69,473.0
+2025,Tesla,Small Sport Utility Vehicle 4WD,All-Wheel Drive,274.0,2,12.0,17.89,501.0
+2025,Tesla,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,221.0,1,12.0,16.69,542.0
+2025,Tesla,Small Sport Utility Vehicle 4WD,All-Wheel Drive,335.0,2,11.8,20.14,446.0
+2025,Volkswagen,Small Sport Utility Vehicle 4WD,All-Wheel Drive,420.0,2,8.0,20.49,423.0
+2025,Volkswagen,Small Sport Utility Vehicle 4WD,All-Wheel Drive,290.0,2,8.0,20.49,423.0
+2025,Volvo,Small Sport Utility Vehicle 4WD,All-Wheel Drive,300.0,2,8.0,19.3,407.0
+2025,Volvo,Small Sport Utility Vehicle 4WD,All-Wheel Drive,300.0,2,8.0,19.29,402.0
+2025,Volvo,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,327.0,2,10.0,26.1,483.0
+2025,Volvo,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,300.0,2,10.0,24.87,499.0
+2025,Volvo,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,353.0,2,10.0,24.87,499.0
+2025,Volvo,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,307.0,2,10.0,26.1,483.0
+2024,Acura,Standard Sport Utility Vehicle 2WD,All-Wheel Drive,375.0,2,11.0,26.73,447.0
+2024,Dodge,Large Cars,All-Wheel Drive,500.0,2,9.9,24.23,441.0
+2024,Dodge,Large Cars,All-Wheel Drive,500.0,2,9.9,24.85,431.0
+2024,Dodge,Large Cars,All-Wheel Drive,500.0,2,9.9,21.45,496.0
+2024,Dodge,Large Cars,All-Wheel Drive,500.0,2,9.9,29.83,348.0
+2024,Dodge,Large Cars,All-Wheel Drive,500.0,2,9.9,26.95,388.0
+2024,GMC,Standard Pickup Trucks 4WD,All-Wheel Drive,428.0,2,10.5,40.39,501.0
+2024,GMC,Standard Pickup Trucks 4WD,All-Wheel Drive,428.0,2,10.5,44.58,449.0
+2024,GMC,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,428.0,2,10.5,41.0,488.0
+2024,GMC,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,428.0,2,10.5,44.58,449.0
+2024,Jeep,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,9.9,21.52,488.0
+2024,Jeep,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,9.9,24.23,435.0
+2024,Porsche,Small Sport Utility Vehicle 4WD,All-Wheel Drive,455.0,2,11.5,21.41,496.0
+2024,Porsche,Small Sport Utility Vehicle 4WD,All-Wheel Drive,665.0,2,11.5,22.94,463.0
+2024,Tesla,Midsize Cars,Rear-Wheel Drive,192.0,1,10.5,15.31,584.0
+2024,Tesla,Midsize Cars,All-Wheel Drive,277.0,2,10.0,18.7,488.0
+2025,Audi,Subcompact Cars,All-Wheel Drive,667.0,2,15.5,24.96,447.0
+2025,Dodge,Large Cars,All-Wheel Drive,500.0,2,9.9,21.45,496.0
+2025,Dodge,Large Cars,All-Wheel Drive,500.0,2,9.9,26.95,388.0
+2025,Tesla,Midsize Cars,All-Wheel Drive,276.0,2,12.0,19.21,480.0
+2025,Toyota,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,80.0,1,11.0,18.73,380.0
+2025,Cadillac,Small Station Wagons,All-Wheel Drive,375.0,2,8.0,25.91,488.0
+2025,Chevrolet,Small Sport Utility Vehicle 4WD,All-Wheel Drive,375.0,2,11.2,24.65,488.0
+2025,Chevrolet,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,180.0,1,9.5,20.06,502.0
+2025,Chevrolet,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,180.0,1,9.5,22.15,455.0
+2025,Chevrolet,Standard Pickup Trucks 4WD,4-Wheel Drive,416.0,2,13.3,31.55,454.0
+2025,Dodge,Large Cars,All-Wheel Drive,500.0,2,9.9,21.75,441.0
+2025,Dodge,Large Cars,All-Wheel Drive,500.0,2,9.9,21.75,431.0
+2025,Dodge,Large Cars,All-Wheel Drive,500.0,2,9.9,21.75,449.0
+2025,Dodge,Large Cars,All-Wheel Drive,500.0,2,9.9,23.61,449.0
+2025,Dodge,Large Cars,All-Wheel Drive,500.0,2,9.9,26.72,348.0
+2025,Ford,Standard Pickup Trucks 4WD,4-Wheel Drive,420.0,2,13.7,29.19,483.0
+2025,Ford,Small Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,7.7,20.9,386.0
+2025,Ford,Small Sport Utility Vehicle 4WD,All-Wheel Drive,258.0,2,10.2,20.04,483.0
+2025,Ford,Small Sport Utility Vehicle 4WD,All-Wheel Drive,420.0,2,9.9,23.23,451.0
+2025,Ford,Small Sport Utility Vehicle 4WD,All-Wheel Drive,420.0,2,10.2,24.47,426.0
+2025,Ford,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,197.0,1,7.8,19.53,418.0
+2025,Ford,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,207.0,1,9.6,19.06,515.0
+2025,Vinfast,Special Purpose Vehicle 2WD,Front-Wheel Drive,150.0,1,7.24,24.6,283.0
+2025,Vinfast,Special Purpose Vehicle 4WD,All-Wheel Drive,416.0,2,12.0,27.57,336.0
+2025,Vinfast,Special Purpose Vehicle 4WD,All-Wheel Drive,260.0,2,12.0,28.74,412.0
+2025,Vinfast,Special Purpose Vehicle 4WD,All-Wheel Drive,300.0,2,12.0,27.52,378.0
+2025,Vinfast,Special Purpose Vehicle 4WD,All-Wheel Drive,300.0,2,15.0,30.93,462.0
+2025,Honda,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,247.0,2,9.5,20.99,473.0
+2025,Honda,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,247.0,2,9.5,21.93,455.0
+2025,Honda,Standard Sport Utility Vehicle 2WD,Front-Wheel Drive,180.0,1,9.5,20.22,496.0
+2025,Hyundai,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,168.0,1,10.3,29.53,270.0
+2025,Jeep,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,9.9,22.49,473.0
+2025,Kia,Small Sport Utility Vehicle 4WD,All-Wheel Drive,478.0,2,8.6,24.85,372.0
+2025,Kia,Small Sport Utility Vehicle 4WD,All-Wheel Drive,239.0,2,8.8,19.88,475.0
+2025,Kia,Small Sport Utility Vehicle 4WD,All-Wheel Drive,239.0,2,8.9,21.49,435.0
+2025,Kia,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,168.0,1,9.0,18.38,513.0
+2025,Kia,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,125.0,1,6.2,18.16,381.0
+2025,Lexus,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,150.0,1,11.0,16.63,428.0
+2025,Lexus,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,150.0,1,11.0,19.26,360.0
+2025,Lexus,Small Sport Utility Vehicle 4WD,All-Wheel Drive,230.0,2,10.0,19.26,354.0
+2025,Lexus,Small Sport Utility Vehicle 4WD,All-Wheel Drive,230.0,2,10.0,21.75,315.0
+2025,Lucid,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,618.0,2,9.5,19.32,724.0
+2025,Lucid,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,618.0,2,9.5,20.15,703.0
+2025,Lucid,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,618.0,2,9.5,21.33,655.0
+2025,Lucid,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,618.0,2,9.5,22.65,621.0
+2025,Lucid,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,618.0,2,9.5,21.33,655.0
+2025,Lucid,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,618.0,2,9.5,22.65,621.0
+2025,Mercedes-Benz,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,140.0,1,8.25,19.55,404.0
+2025,Mercedes-Benz,Small Sport Utility Vehicle 4WD,All-Wheel Drive,168.0,2,8.32,24.04,330.0
+2025,Mercedes-Benz,Small Sport Utility Vehicle 4WD,All-Wheel Drive,168.0,2,8.25,24.1,333.0
+2025,Porsche,Small Sport Utility Vehicle 4WD,Rear-Wheel Drive,280.0,1,11.5,21.16,507.0
+2025,Porsche,Compact Cars,All-Wheel Drive,404.0,2,13.0,24.07,473.0
+2025,Porsche,Compact Cars,All-Wheel Drive,737.0,2,13.0,24.22,472.0
+2025,Porsche,Compact Cars,All-Wheel Drive,416.0,2,13.0,25.51,449.0
+2025,Tesla,Standard Pickup Trucks 4WD,All-Wheel Drive,463.0,2,11.7,26.66,523.0
+2025,Tesla,Large Cars,All-Wheel Drive,491.0,2,9.7,16.86,660.0
+2025,Tesla,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,491.0,2,14.0,21.28,529.0
+2025,Toyota,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,150.0,1,11.0,17.6,406.0
+2025,Toyota,Small Sport Utility Vehicle 4WD,All-Wheel Drive,160.0,2,11.0,19.26,367.0
+2025,Toyota,Small Sport Utility Vehicle 4WD,All-Wheel Drive,160.0,2,11.0,19.88,357.0
+2025,Toyota,Small Sport Utility Vehicle 4WD,All-Wheel Drive,160.0,2,11.0,19.88,357.0
+2025,Bugatti Rimac,Two Seaters,4-Wheel Drive,648.0,4,17.6,41.29,280.0
+2025,Jeep,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,9.9,25.48,422.0
+2025,Tesla,Standard Pickup Trucks 2WD,Rear-Wheel Drive,240.0,1,12.0,25.4,539.0
+2025,Tesla,Standard Pickup Trucks 2WD,Rear-Wheel Drive,240.0,1,12.0,26.94,539.0
+2025,Tesla,Midsize Cars,Rear-Wheel Drive,225.0,1,9.5,15.94,557.0
+2025,Volkswagen,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,210.0,1,6.0,19.63,332.0
+2025,Volkswagen,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,210.0,1,8.0,18.51,468.0
+2025,Volkswagen,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,210.0,1,8.0,18.51,468.0
+2025,Volkswagen,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,210.0,1,6.0,19.63,332.0
+2026,Audi,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,170.0,1,12.0,18.27,463.0
+2026,BMW,Compact Cars,Rear-Wheel Drive,250.0,1,8.0,19.02,499.0
+2026,BMW,Compact Cars,Rear-Wheel Drive,250.0,1,8.0,19.72,483.0
+2026,BMW,Compact Cars,Rear-Wheel Drive,250.0,1,8.0,21.43,447.0
+2026,BMW,Compact Cars,All-Wheel Drive,420.0,2,8.0,21.36,447.0
+2026,BMW,Compact Cars,All-Wheel Drive,420.0,2,8.0,21.89,438.0
+2026,BMW,Compact Cars,All-Wheel Drive,420.0,2,8.0,23.12,417.0
+2026,BMW,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,390.0,2,10.0,22.37,502.0
+2026,BMW,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,390.0,2,10.0,23.44,478.0
+2026,BMW,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,390.0,2,10.0,25.02,449.0
+2026,BMW,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,390.0,2,10.0,24.01,467.0
+2026,BMW,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,420.0,2,11.0,21.57,586.0
+2026,BMW,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,420.0,2,11.0,23.13,549.0
+2026,BMW,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,420.0,2,11.0,23.93,526.0
+2026,BMW,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,420.0,2,11.0,24.58,512.0
+2026,BMW,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,550.0,2,11.0,26.09,488.0
+2026,BMW,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,550.0,2,11.0,27.64,457.0
+2026,BMW,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,550.0,2,11.0,27.85,455.0
+2026,Bugatti Rimac,Two Seaters,4-Wheel Drive,648.0,4,17.6,41.29,280.0
+2026,Cadillac,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,255.0,1,11.2,22.88,525.0
+2026,Cadillac,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,255.0,1,7.0,22.89,525.0
+2026,Cadillac,Small Sport Utility Vehicle 4WD,All-Wheel Drive,375.0,2,11.2,26.32,459.0
+2026,Cadillac,Small Sport Utility Vehicle 4WD,All-Wheel Drive,375.0,2,7.0,26.32,459.0
+2026,Cadillac,Small Sport Utility Vehicle 4WD,All-Wheel Drive,375.0,2,11.2,23.6,513.0
+2026,Cadillac,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,375.0,2,11.2,24.45,491.0
+2026,Cadillac,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,375.0,2,7.0,24.45,483.0
+2026,Chevrolet,Standard Pickup Trucks 4WD,4-Wheel Drive,511.0,2,11.5,29.73,682.0
+2026,Chevrolet,Standard Pickup Trucks 4WD,4-Wheel Drive,511.0,2,13.8,30.75,793.0
+2026,Chevrolet,Standard Pickup Trucks 4WD,4-Wheel Drive,511.0,2,18.6,30.79,660.0
+2026,Chevrolet,Standard Pickup Trucks 4WD,4-Wheel Drive,511.0,2,11.5,32.57,620.0
+2026,Chevrolet,Standard Pickup Trucks 4WD,4-Wheel Drive,511.0,2,13.3,30.79,460.0
+2026,Chevrolet,Standard Pickup Trucks 4WD,4-Wheel Drive,511.0,2,13.3,31.24,455.0
+2026,Chevrolet,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,180.0,1,9.5,20.06,502.0
+2026,Chevrolet,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,180.0,1,9.5,22.15,455.0
+2026,Chevrolet,Small Sport Utility Vehicle 4WD,All-Wheel Drive,247.0,2,9.5,22.21,455.0
+2026,Dodge,Large Cars,All-Wheel Drive,500.0,2,10.0,24.32,430.0
+2026,Dodge,Large Cars,All-Wheel Drive,500.0,2,10.0,24.32,430.0
+2026,Dodge,Large Cars,All-Wheel Drive,500.0,2,10.0,28.95,359.0
+2026,Dodge,Large Cars,All-Wheel Drive,500.0,2,10.0,26.95,388.0
+2026,Genesis,Midsize Cars,All-Wheel Drive,272.0,2,10.3,21.75,483.0
+2026,Genesis,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,168.0,1,8.1,18.99,492.0
+2026,Genesis,Small Sport Utility Vehicle 4WD,All-Wheel Drive,234.0,2,9.2,20.87,454.0
+2026,Genesis,Small Sport Utility Vehicle 4WD,All-Wheel Drive,234.0,2,9.2,21.86,430.0
+2026,Genesis,Small Sport Utility Vehicle 4WD,All-Wheel Drive,234.0,2,9.0,23.01,406.0
+2026,Genesis,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,234.0,2,8.9,21.75,423.0
+2026,Genesis,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,234.0,2,9.0,23.61,391.0
+2026,GMC,Standard Pickup Trucks 4WD,4-Wheel Drive,511.0,2,18.6,30.79,660.0
+2026,GMC,Standard Pickup Trucks 4WD,4-Wheel Drive,511.0,2,11.5,32.57,620.0
+2026,GMC,Standard Pickup Trucks 4WD,4-Wheel Drive,511.0,2,13.3,31.24,455.0
+2026,Hyundai,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,160.0,1,11.7,22.99,539.0
+2026,Hyundai,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,226.0,2,11.6,23.61,515.0
+2026,Hyundai,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,11.5,24.85,501.0
+2026,Kia,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,150.0,1,7.5,18.64,407.0
+2026,Kia,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,160.0,1,8.1,23.61,370.0
+2026,Kia,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,160.0,1,10.7,23.61,491.0
+2026,Kia,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,282.0,2,10.7,24.85,455.0
+2026,Kia,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,282.0,2,10.5,25.48,451.0
+2026,Kia,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,374.0,2,10.8,26.72,418.0
+2026,Lucid,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,9.5,19.32,724.0
+2026,Lucid,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,9.5,21.33,655.0
+2026,Lucid,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,9.5,21.33,655.0
+2026,Lucid,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,9.5,22.65,621.0
+2026,Lucid,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,9.5,22.65,621.0
+2026,Lucid,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,9.5,21.05,676.0
+2026,Lucid,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,9.5,23.39,608.0
+2026,Lucid,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,9.5,23.39,608.0
+2026,Mercedes-Benz,Midsize Cars,All-Wheel Drive,460.0,2,10.75,29.83,354.0
+2026,Mercedes-Benz,Midsize Cars,Rear-Wheel Drive,235.0,1,11.5,22.14,496.0
+2026,Mercedes-Benz,Midsize Cars,All-Wheel Drive,235.0,2,10.75,24.23,430.0
+2026,Mercedes-Benz,Large Cars,Rear-Wheel Drive,265.0,1,14.0,21.13,628.0
+2026,Mercedes-Benz,Large Cars,All-Wheel Drive,400.0,2,11.5,22.13,597.0
+2026,Mercedes-Benz,Large Cars,All-Wheel Drive,400.0,2,12.75,22.99,591.0
+2026,Mercedes-Benz,Midsize Station Wagons,Rear-Wheel Drive,235.0,1,11.5,22.42,486.0
+2026,Mercedes-Benz,Midsize Station Wagons,All-Wheel Drive,335.0,2,10.75,26.1,407.0
+2026,Mercedes-Benz,Midsize Station Wagons,All-Wheel Drive,460.0,2,10.75,28.29,370.0
+2026,Mercedes-Benz,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,432.0,4,14.0,33.55,385.0
+2026,Mercedes-Benz,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,400.0,2,14.0,26.72,502.0
+2026,Mercedes-Benz,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,400.0,2,14.0,26.1,510.0
+2026,Mercedes-Benz,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,484.0,2,14.0,24.74,483.0
+2026,Rivian,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,416.0,2,9.5,24.78,435.0
+2026,Rivian,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,416.0,2,9.5,26.64,415.0
+2026,Rivian,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,528.0,2,15.0,26.08,612.0
+2026,Rivian,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,528.0,2,15.0,24.13,676.0
+2026,Rivian,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,528.0,2,15.0,26.86,595.0
+2026,Rivian,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,528.0,2,15.0,26.08,612.0
+2026,Rivian,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,528.0,2,15.0,24.13,676.0
+2026,Rivian,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,528.0,2,15.0,26.86,595.0
+2026,Rivian,Standard Pickup Trucks 4WD,4-Wheel Drive,528.0,2,12.0,25.42,531.0
+2026,Rivian,Standard Pickup Trucks 4WD,4-Wheel Drive,528.0,2,12.0,29.13,470.0
+2026,Rivian,Standard Pickup Trucks 4WD,4-Wheel Drive,528.0,2,12.0,25.42,531.0
+2026,Rivian,Standard Pickup Trucks 4WD,4-Wheel Drive,528.0,2,12.0,29.13,470.0
+2026,Rivian,Standard Pickup Trucks 4WD,4-Wheel Drive,528.0,2,12.0,26.8,510.0
+2026,Rivian,Standard Pickup Trucks 4WD,4-Wheel Drive,416.0,2,12.0,26.8,510.0
+2026,Rivian,Standard Pickup Trucks 4WD,4-Wheel Drive,635.0,3,15.0,27.7,597.0
+2026,Rivian,Standard Pickup Trucks 4WD,4-Wheel Drive,635.0,3,15.0,30.97,529.0
+2026,Rivian,Standard Pickup Trucks 4WD,4-Wheel Drive,528.0,2,12.0,24.53,529.0
+2026,Rivian,Standard Pickup Trucks 4WD,4-Wheel Drive,528.0,2,12.0,26.64,483.0
+2026,Rivian,Standard Pickup Trucks 4WD,4-Wheel Drive,528.0,2,12.0,27.57,465.0
+2026,Rivian,Standard Pickup Trucks 4WD,4-Wheel Drive,528.0,2,12.0,24.53,529.0
+2026,Rivian,Standard Pickup Trucks 4WD,4-Wheel Drive,528.0,2,12.0,26.64,483.0
+2026,Rivian,Standard Pickup Trucks 4WD,4-Wheel Drive,528.0,2,12.0,27.57,465.0
+2026,Rivian,Standard Pickup Trucks 4WD,4-Wheel Drive,648.0,4,14.0,29.42,544.0
+2026,Rivian,Standard Pickup Trucks 4WD,4-Wheel Drive,648.0,4,14.0,31.13,523.0
+2026,Rivian,Standard Pickup Trucks 4WD,4-Wheel Drive,648.0,4,14.0,27.57,602.0
+2026,Rivian,Standard Sport Utility Vehicle 4WD,Part-time 4-Wheel Drive,416.0,2,9.5,24.78,435.0
+2026,Rivian,Standard Sport Utility Vehicle 4WD,Part-time 4-Wheel Drive,416.0,2,9.5,26.64,415.0
+2026,Rivian,Standard Sport Utility Vehicle 4WD,Part-time 4-Wheel Drive,528.0,2,15.0,26.08,612.0
+2026,Rivian,Standard Sport Utility Vehicle 4WD,Part-time 4-Wheel Drive,528.0,2,15.0,24.82,660.0
+2026,Rivian,Standard Sport Utility Vehicle 4WD,Part-time 4-Wheel Drive,528.0,2,15.0,26.86,595.0
+2026,Rivian,Standard Sport Utility Vehicle 4WD,Part-time 4-Wheel Drive,416.0,2,15.0,26.08,612.0
+2026,Rivian,Standard Sport Utility Vehicle 4WD,Part-time 4-Wheel Drive,416.0,2,15.0,24.82,660.0
+2026,Rivian,Standard Sport Utility Vehicle 4WD,Part-time 4-Wheel Drive,528.0,2,15.0,26.86,595.0
+2026,Rivian,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,528.0,2,12.0,25.42,531.0
+2026,Rivian,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,528.0,2,12.0,29.13,470.0
+2026,Rivian,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,528.0,2,12.0,25.42,531.0
+2026,Rivian,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,528.0,2,12.0,29.13,470.0
+2026,Rivian,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,528.0,2,12.0,26.8,510.0
+2026,Rivian,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,528.0,2,12.0,26.8,510.0
+2026,Rivian,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,635.0,3,15.0,27.7,597.0
+2026,Rivian,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,690.0,3,15.0,30.97,529.0
+2026,Rivian,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,528.0,2,12.0,24.53,529.0
+2026,Rivian,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,528.0,2,12.0,26.64,483.0
+2026,Rivian,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,528.0,2,12.0,27.57,465.0
+2026,Rivian,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,528.0,2,12.0,24.53,529.0
+2026,Rivian,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,528.0,2,12.0,26.64,483.0
+2026,Rivian,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,528.0,2,12.0,27.57,465.0
+2026,Rivian,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,648.0,4,14.0,29.42,544.0
+2026,Rivian,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,648.0,4,14.0,31.13,523.0
+2026,Rivian,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,648.0,4,14.0,27.57,602.0
+2026,Tesla,Large Cars,All-Wheel Drive,491.0,2,9.7,16.86,660.0
+2026,Tesla,Large Cars,All-Wheel Drive,750.0,3,12.0,19.01,592.0
+2026,Tesla,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,243.0,1,10.0,15.67,575.0
+2026,Tesla,Small Sport Utility Vehicle 4WD,All-Wheel Drive,290.0,2,8.0,17.09,526.0
+2026,Tesla,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,497.0,2,14.0,20.01,566.0
+2026,Tesla,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,690.0,3,12.0,20.94,539.0
+2026,Volvo,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,185.0,1,8.0,19.7,476.0
+2026,Volvo,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,185.0,1,8.0,19.69,480.0
+2026,Volvo,Small Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,8.0,22.35,418.0
+2026,Volvo,Small Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,8.0,21.65,431.0
+2026,BMW,Large Cars,Rear-Wheel Drive,335.0,1,10.0,23.73,505.0
+2026,BMW,Large Cars,Rear-Wheel Drive,335.0,1,10.0,24.78,484.0
+2026,BMW,Large Cars,Rear-Wheel Drive,335.0,1,10.0,24.2,494.0
+2026,BMW,Large Cars,All-Wheel Drive,550.0,2,10.0,28.0,430.0
+2026,BMW,Large Cars,All-Wheel Drive,550.0,2,10.0,26.38,459.0
+2026,BMW,Large Cars,All-Wheel Drive,420.0,2,10.0,23.87,501.0
+2026,BMW,Large Cars,All-Wheel Drive,420.0,2,10.0,25.32,476.0
+2026,BMW,Large Cars,All-Wheel Drive,420.0,2,10.0,24.09,496.0
+2026,Cadillac,Small Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,7.0,24.68,488.0
+2026,Cadillac,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,255.0,1,9.5,19.94,510.0
+2026,Cadillac,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,255.0,1,5.9,19.94,510.0
+2026,Cadillac,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,9.5,21.14,488.0
+2026,Cadillac,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,5.9,21.14,488.0
+2026,Chevrolet,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,180.0,1,9.5,19.31,513.0
+2026,Chevrolet,Small Sport Utility Vehicle 4WD,All-Wheel Drive,247.0,2,11.2,24.65,486.0
+2026,Chevrolet,Small Sport Utility Vehicle 4WD,All-Wheel Drive,247.0,2,9.5,20.27,494.0
+2026,Chevrolet,Small Sport Utility Vehicle 4WD,All-Wheel Drive,247.0,2,5.9,21.82,463.0
+2026,Dodge,Large Cars,All-Wheel Drive,500.0,2,10.0,24.85,423.0
+2026,Dodge,Large Cars,All-Wheel Drive,500.0,2,10.0,22.11,475.0
+2026,Dodge,Large Cars,All-Wheel Drive,500.0,2,10.0,25.48,415.0
+2026,Hyundai,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,168.0,1,9.1,18.64,512.0
+2026,Hyundai,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,125.0,1,6.3,18.02,394.0
+2026,Hyundai,Small Sport Utility Vehicle 4WD,All-Wheel Drive,239.0,2,8.2,19.68,467.0
+2026,Hyundai,Small Sport Utility Vehicle 4WD,All-Wheel Drive,239.0,2,8.2,21.44,433.0
+2026,Hyundai,Small Sport Utility Vehicle 4WD,All-Wheel Drive,239.0,2,8.2,22.22,417.0
+2026,Hyundai,Small Sport Utility Vehicle 4WD,All-Wheel Drive,448.0,2,8.7,26.72,356.0
+2026,Lucid,Large Cars,All-Wheel Drive,611.0,2,13.0,16.42,824.0
+2026,Lucid,Large Cars,All-Wheel Drive,611.0,2,13.0,17.5,772.0
+2026,Lucid,Large Cars,All-Wheel Drive,611.0,2,13.0,18.72,718.0
+2026,Lucid,Large Cars,Rear-Wheel Drive,330.0,1,10.0,14.38,676.0
+2026,Lucid,Large Cars,Rear-Wheel Drive,330.0,1,10.0,16.22,599.0
+2026,Lucid,Large Cars,All-Wheel Drive,930.0,3,13.0,19.97,687.0
+2026,Lucid,Large Cars,All-Wheel Drive,611.0,2,10.0,15.65,694.0
+2026,Lucid,Large Cars,All-Wheel Drive,611.0,2,10.0,16.97,637.0
+2026,Nissan,Small Station Wagons,Front-Wheel Drive,160.0,1,12.0,18.64,463.0
+2026,Nissan,Small Station Wagons,Front-Wheel Drive,160.0,1,12.0,17.29,488.0
+2026,Nissan,Small Station Wagons,Front-Wheel Drive,160.0,1,12.0,20.34,417.0
+2026,Rolls-Royce,Compact Cars,All-Wheel Drive,550.0,2,10.0,28.23,428.0
+2026,Rolls-Royce,Compact Cars,All-Wheel Drive,550.0,2,10.0,30.0,404.0
+2026,Rolls-Royce,Compact Cars,All-Wheel Drive,550.0,2,10.0,27.12,446.0
+2026,Rolls-Royce,Compact Cars,All-Wheel Drive,550.0,2,10.0,29.72,407.0
+2026,Subaru,Small Sport Utility Vehicle 4WD,All-Wheel Drive,254.0,2,8.0,17.97,447.0
+2026,Subaru,Small Sport Utility Vehicle 4WD,All-Wheel Drive,254.0,2,8.0,17.37,463.0
+2026,Toyota,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,167.0,1,6.0,16.05,380.0
+2026,Toyota,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,167.0,1,8.0,17.08,476.0
+2026,Toyota,Small Sport Utility Vehicle 4WD,All-Wheel Drive,254.0,2,8.0,17.4,463.0
+2026,Toyota,Small Sport Utility Vehicle 4WD,All-Wheel Drive,254.0,2,8.0,17.97,447.0
+2026,Volkswagen,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,210.0,1,8.0,18.51,468.0
+2026,Volkswagen,Small Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,8.0,20.49,423.0
+2026,Volvo,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,200.0,1,8.0,18.12,420.0
+2026,Volvo,Small Sport Utility Vehicle 4WD,All-Wheel Drive,315.0,2,8.0,23.5,327.0
+2026,Volvo,Small Sport Utility Vehicle 4WD,All-Wheel Drive,315.0,2,8.0,21.18,365.0
+2026,Volvo,Small Sport Utility Vehicle 4WD,All-Wheel Drive,315.0,2,8.0,19.3,407.0
+2026,Acura,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,255.0,1,11.2,22.91,526.0
+2026,Acura,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,375.0,2,11.2,23.43,520.0
+2026,Acura,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,375.0,2,11.2,25.21,476.0
+2026,Cadillac,Standard Sport Utility Vehicle 2WD,All-Wheel Drive,416.0,2,9.5,22.78,447.0
+2026,Cadillac,Standard Sport Utility Vehicle 2WD,All-Wheel Drive,416.0,2,5.9,25.48,402.0
+2026,Hyundai,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,168.0,1,10.3,29.53,270.0
+2026,Lucid,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,9.5,20.15,703.0
+2026,Mercedes-Benz,Compact Cars,Rear-Wheel Drive,200.0,1,8.75,19.26,510.0
+2026,Mercedes-Benz,Compact Cars,Rear-Wheel Drive,200.0,1,8.75,16.78,602.0
+2026,Mercedes-Benz,Compact Cars,All-Wheel Drive,291.0,2,8.75,18.02,502.0
+2026,Polestar,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,200.0,1,11.0,21.75,499.0
+2026,Polestar,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,11.0,24.85,451.0
+2026,Polestar,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,11.0,27.34,410.0
+2026,Tesla,Midsize Cars,All-Wheel Drive,296.0,2,12.0,18.38,497.0
+2026,Tesla,Midsize Cars,All-Wheel Drive,296.0,2,11.7,16.39,557.0
+2026,Tesla,Midsize Cars,Rear-Wheel Drive,225.0,1,11.7,15.31,584.0
+2026,Tesla,Standard Pickup Trucks 4WD,All-Wheel Drive,449.0,2,11.7,26.66,523.0
+2026,Tesla,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,243.0,1,10.0,15.13,517.0
+2026,Tesla,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,243.0,1,10.0,15.96,488.0
+2026,Toyota,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,167.0,1,8.0,15.85,505.0
+2026,Toyota,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,167.0,1,8.0,16.69,481.0
+2026,Audi,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,290.0,2,9.5,21.52,404.0
+2026,Audi,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,290.0,2,9.5,21.52,404.0
+2026,Audi,Compact Cars,All-Wheel Drive,416.0,2,15.5,24.97,447.0
+2026,Audi,Compact Cars,All-Wheel Drive,416.0,2,15.5,23.39,483.0
+2026,Audi,Compact Cars,All-Wheel Drive,416.0,2,15.5,23.92,473.0
+2026,BMW,Compact Cars,Rear-Wheel Drive,210.0,1,7.0,19.16,404.0
+2026,BMW,Compact Cars,Rear-Wheel Drive,250.0,1,9.0,17.73,536.0
+2026,BMW,Compact Cars,Rear-Wheel Drive,250.0,1,9.0,19.32,494.0
+2026,BMW,Compact Cars,All-Wheel Drive,450.0,2,9.0,21.37,447.0
+2026,BMW,Compact Cars,All-Wheel Drive,450.0,2,9.0,25.75,373.0
+2026,BMW,Compact Cars,All-Wheel Drive,420.0,2,8.0,20.76,462.0
+2026,BMW,Compact Cars,All-Wheel Drive,420.0,2,8.0,22.36,431.0
+2026,BMW,Compact Cars,All-Wheel Drive,442.0,2,8.0,21.22,446.0
+2026,BMW,Compact Cars,All-Wheel Drive,442.0,2,8.0,22.26,428.0
+2026,BMW,Compact Cars,All-Wheel Drive,442.0,2,8.0,23.07,417.0
+2026,Cadillac,Small Station Wagons,All-Wheel Drive,465.0,2,8.0,25.91,488.0
+2026,Fiat,Minicompact Cars,Front-Wheel Drive,87.0,1,6.2,18.13,240.0
+2026,Fiat,Minicompact Cars,Front-Wheel Drive,87.0,1,6.2,18.97,227.0
+2026,Ford,Small Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,7.7,20.9,386.0
+2026,Ford,Small Sport Utility Vehicle 4WD,All-Wheel Drive,258.0,2,10.2,20.04,483.0
+2026,Ford,Small Sport Utility Vehicle 4WD,All-Wheel Drive,358.0,2,9.9,23.23,451.0
+2026,Ford,Small Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,10.0,24.95,410.0
+2026,Ford,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,197.0,1,7.8,19.53,418.0
+2026,Ford,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,207.0,1,9.6,19.06,515.0
+2026,Honda,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,247.0,2,9.5,21.17,473.0
+2026,Honda,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,247.0,2,9.5,21.93,455.0
+2026,Honda,Standard Sport Utility Vehicle 2WD,Front-Wheel Drive,180.0,1,9.5,20.22,496.0
+2026,Jeep,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,10.0,22.49,473.0
+2026,Jeep,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,10.0,24.3,431.0
+2026,Kia,Small Sport Utility Vehicle 4WD,All-Wheel Drive,478.0,2,8.6,25.48,372.0
+2026,Kia,Small Sport Utility Vehicle 4WD,All-Wheel Drive,239.0,2,8.8,19.62,475.0
+2026,Kia,Small Sport Utility Vehicle 4WD,All-Wheel Drive,239.0,2,8.9,21.49,435.0
+2026,Kia,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,168.0,1,9.0,18.38,513.0
+2026,Kia,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,125.0,1,6.2,18.16,381.0
+2026,Lexus,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,167.0,1,8.0,17.48,457.0
+2026,Lexus,Small Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,8.0,18.97,425.0
+2026,Lexus,Small Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,8.0,19.37,414.0
+2026,Lexus,Small Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,8.0,21.89,367.0
+2026,Lexus,Small Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,8.0,21.94,369.0
+2026,Lucid,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,9.5,18.85,542.0
+2026,MINI,Small Sport Utility Vehicle 4WD,All-Wheel Drive,280.0,2,8.0,21.74,341.0
+2026,MINI,Small Sport Utility Vehicle 4WD,All-Wheel Drive,280.0,2,8.0,22.9,328.0
+2026,Nissan,Small Sport Utility Vehicle 4WD,All-Wheel Drive,320.0,2,10.0,21.93,330.0
+2026,Nissan,Small Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,13.0,22.77,438.0
+2026,Nissan,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,160.0,1,10.0,20.67,348.0
+2026,Nissan,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,178.0,1,14.0,21.36,465.0
+2026,Nissan,Small Sport Utility Vehicle 4WD,All-Wheel Drive,320.0,2,14.0,23.24,430.0
+2026,Polestar,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,430.0,2,11.0,23.32,502.0
+2026,Polestar,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,400.0,2,11.0,25.82,452.0
+2026,Polestar,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,500.0,2,11.0,25.82,452.0
+2026,Polestar,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,245.0,1,10.0,22.06,460.0
+2026,Polestar,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,245.0,1,10.0,21.58,468.0
+2026,Porsche,Midsize Cars,All-Wheel Drive,429.0,2,13.0,25.79,446.0
+2026,Porsche,Compact Cars,All-Wheel Drive,678.0,2,13.0,24.07,473.0
+2026,Porsche,Midsize Cars,All-Wheel Drive,704.0,2,13.0,26.25,438.0
+2026,Porsche,Compact Cars,All-Wheel Drive,351.0,2,13.0,23.95,475.0
+2026,Porsche,Compact Cars,All-Wheel Drive,325.0,2,13.0,22.52,507.0
+2026,Porsche,Compact Cars,All-Wheel Drive,489.0,2,11.5,23.89,406.0
+2026,Porsche,Compact Cars,All-Wheel Drive,737.0,2,13.0,24.22,472.0
+2026,Porsche,Midsize Cars,All-Wheel Drive,649.0,2,13.0,25.51,449.0
+2026,Porsche,Compact Cars,Rear-Wheel Drive,320.0,1,11.5,23.04,441.0
+2026,Porsche,Compact Cars,All-Wheel Drive,788.0,2,13.0,24.45,470.0
+2026,Porsche,Midsize Cars,All-Wheel Drive,409.0,2,13.0,26.69,426.0
+2026,Porsche,Compact Cars,All-Wheel Drive,444.0,2,13.0,25.4,444.0
+2026,Porsche,Compact Cars,All-Wheel Drive,737.0,2,13.0,25.94,433.0
+2026,Porsche,Compact Cars,All-Wheel Drive,351.0,2,13.0,26.57,428.0
+2026,Porsche,Midsize Cars,All-Wheel Drive,384.0,2,13.0,27.1,420.0
+2026,Tesla,Standard Pickup Trucks 2WD,Rear-Wheel Drive,240.0,1,12.0,26.94,539.0
+2026,Tesla,Midsize Cars,All-Wheel Drive,296.0,2,12.0,18.79,505.0
+2026,Tesla,Midsize Cars,Rear-Wheel Drive,225.0,1,12.1,15.1,517.0
+2026,Tesla,Large Cars,All-Wheel Drive,750.0,3,12.0,22.5,497.0
+2026,Tesla,Small Sport Utility Vehicle 4WD,All-Wheel Drive,291.0,2,12.2,19.87,492.0
+2026,Volvo,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,245.0,1,10.0,22.87,444.0
+2026,Volvo,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,245.0,1,10.0,21.42,468.0
+2026,Volvo,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,350.0,2,11.0,24.33,480.0
+2026,Volvo,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,425.0,2,11.0,23.81,491.0
+2026,Volvo,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,485.0,2,11.0,24.33,480.0
+2026,Volvo,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,410.0,2,11.0,23.81,491.0
+2026,Lexus,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,167.0,1,8.0,16.53,484.0
+2026,Maserati,Small Sport Utility Vehicle 4WD,All-Wheel Drive,410.0,2,11.0,25.93,431.0
+2026,Maserati,Small Sport Utility Vehicle 4WD,All-Wheel Drive,410.0,2,11.0,28.99,385.0
+2026,Porsche,Small Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,11.5,21.94,489.0
+2026,Porsche,Small Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,11.5,22.86,467.0
+2026,Porsche,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,280.0,1,11.5,21.49,497.0
+2026,Porsche,Small Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,11.5,22.81,473.0
+2026,Porsche,Small Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,11.5,22.9,472.0
+2026,Subaru,Small Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,8.0,18.64,441.0
+2026,Subaru,Small Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,8.0,18.02,452.0
+2026,Subaru,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,167.0,1,8.0,15.95,496.0
+2026,Subaru,Small Sport Utility Vehicle 4WD,All-Wheel Drive,254.0,2,8.0,18.33,439.0
+2026,Subaru,Small Sport Utility Vehicle 4WD,All-Wheel Drive,254.0,2,8.0,18.02,462.0
+2026,Tesla,Small Sport Utility Vehicle 4WD,All-Wheel Drive,291.0,2,8.0,16.47,473.0
+2026,Toyota,Small Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,8.0,18.02,452.0
+2026,Toyota,Small Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,8.0,19.0,418.0
+2026,Toyota,Small Sport Utility Vehicle 4WD,All-Wheel Drive,254.0,2,8.0,18.02,462.0
+2026,Toyota,Small Sport Utility Vehicle 4WD,All-Wheel Drive,254.0,2,8.0,18.38,439.0
+2027,BMW,Compact Cars,Rear-Wheel Drive,250.0,1,8.0,17.98,528.0
+2027,BMW,Compact Cars,Rear-Wheel Drive,250.0,1,8.0,19.8,481.0
+2027,BMW,Compact Cars,Rear-Wheel Drive,250.0,1,8.0,21.04,451.0
+2027,BMW,Compact Cars,All-Wheel Drive,420.0,2,8.0,21.76,439.0
+2027,BMW,Compact Cars,All-Wheel Drive,420.0,2,8.0,22.68,422.0
+2027,Mercedes-Benz,Compact Cars,Rear-Wheel Drive,200.0,1,8.75,16.78,602.0
+2027,Audi,Large Cars,Rear-Wheel Drive,270.0,1,12.0,18.85,560.0
+2027,Audi,Large Cars,All-Wheel Drive,495.0,2,12.0,19.87,526.0
+2027,Audi,Large Cars,All-Wheel Drive,495.0,2,12.0,17.86,579.0
+2027,Audi,Large Cars,Rear-Wheel Drive,270.0,1,12.0,16.44,636.0
+2027,Audi,Large Cars,All-Wheel Drive,495.0,2,12.0,20.29,525.0
+2027,Audi,Large Cars,All-Wheel Drive,495.0,2,12.0,21.0,501.0
+2027,Chevrolet,Small Station Wagons,Front-Wheel Drive,180.0,1,6.8,17.52,422.0
+2027,Vinfast,Small Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,12.0,27.57,336.0
+2027,MINI,Small Sport Utility Vehicle 4WD,All-Wheel Drive,280.0,2,7.0,21.48,348.0
+2027,Hyundai,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,160.0,1,11.7,22.99,539.0
+2027,Audi,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,495.0,2,12.0,20.2,523.0
+2027,Audi,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,495.0,2,12.0,21.8,484.0
+2027,Audi,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,495.0,2,12.0,21.8,484.0
+2027,Audi,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,495.0,2,12.0,20.2,523.0
+2027,Audi,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,495.0,2,12.0,22.74,459.0
+2027,Audi,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,495.0,2,12.0,24.65,425.0
+2027,Audi,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,495.0,2,12.0,22.74,459.0
+2027,Audi,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,495.0,2,12.0,24.65,425.0
+2027,BMW,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,363.0,2,8.0,20.57,616.0
+2027,BMW,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,363.0,2,8.0,17.74,698.0
+2027,BMW,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,363.0,2,8.0,20.01,642.0
+2027,BMW,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,363.0,2,8.0,20.17,631.0
+2027,Hyundai,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,226.0,2,11.6,23.61,515.0
+2027,Hyundai,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,11.5,24.85,501.0
+2027,Rivian,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,416.0,2,9.5,21.19,494.0
+2027,Rivian,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,416.0,2,9.5,19.99,531.0
+2026,Jeep,Small Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,9.4,29.55,357.0
+2026,Lexus,Midsize Cars,Front-Wheel Drive,167.0,1,8.0,16.78,494.0
+2026,Lexus,Midsize Cars,Front-Wheel Drive,167.0,1,8.0,17.1,470.0
+2026,Lexus,Midsize Cars,All-Wheel Drive,255.0,2,8.0,18.64,444.0
+2026,Lexus,Midsize Cars,All-Wheel Drive,255.0,2,8.0,18.64,438.0
+2026,Maserati,Subcompact Cars,All-Wheel Drive,825.0,3,9.0,25.3,372.0
+2026,Maserati,Small Sport Utility Vehicle 4WD,All-Wheel Drive,410.0,2,11.0,25.93,431.0
+2026,Porsche,Compact Cars,All-Wheel Drive,416.0,2,13.0,22.52,507.0
+2026,Porsche,Compact Cars,All-Wheel Drive,416.0,2,11.5,23.97,404.0
+2026,Porsche,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,250.0,1,11.5,19.95,534.0
+2026,Porsche,Small Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,11.5,20.54,521.0
+2026,Tesla,Standard Pickup Trucks 4WD,All-Wheel Drive,449.0,2,12.0,26.69,523.0
+2027,Audi,Compact Cars,All-Wheel Drive,416.0,2,15.5,24.97,447.0
+2027,Audi,Compact Cars,All-Wheel Drive,416.0,2,15.5,23.39,483.0
+2027,Audi,Compact Cars,All-Wheel Drive,416.0,2,15.5,23.92,473.0
+2027,BMW,Compact Cars,All-Wheel Drive,420.0,2,8.0,21.0,455.0
+2027,BMW,Large Cars,All-Wheel Drive,420.0,2,11.0,23.26,570.0
+2027,BMW,Large Cars,All-Wheel Drive,420.0,2,11.0,23.26,570.0
+2027,BMW,Large Cars,All-Wheel Drive,420.0,2,11.0,22.84,586.0
+2027,BMW,Large Cars,All-Wheel Drive,420.0,2,11.0,23.85,554.0
+2027,BMW,Large Cars,All-Wheel Drive,420.0,2,11.0,22.68,583.0
+2027,BMW,Large Cars,All-Wheel Drive,420.0,2,11.0,23.85,554.0
+2027,BMW,Large Cars,All-Wheel Drive,420.0,2,11.0,23.79,560.0
+2027,BMW,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,363.0,2,8.0,19.87,641.0
+2027,Cadillac,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,260.0,1,11.2,22.88,525.0
+2027,Cadillac,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,260.0,1,7.0,22.88,525.0
+2027,Cadillac,Small Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,11.2,23.6,513.0
+2027,Cadillac,Small Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,7.0,24.68,488.0
+2027,Cadillac,Small Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,11.2,26.32,459.0
+2027,Cadillac,Small Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,7.0,26.32,459.0
+2027,Cadillac,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,9.5,21.14,488.0
+2027,Cadillac,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,5.9,21.14,488.0
+2027,Cadillac,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,9.5,22.78,447.0
+2027,Cadillac,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,5.9,25.48,402.0
+2027,Cadillac,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,260.0,1,9.5,19.94,510.0
+2027,Cadillac,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,260.0,1,5.9,19.94,510.0
+2027,Cadillac,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,11.2,24.45,491.0
+2027,Cadillac,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,7.0,24.45,483.0
+2027,Chevrolet,Small Sport Utility Vehicle 4WD,All-Wheel Drive,220.0,2,9.5,22.16,455.0
+2027,Chevrolet,Small Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,11.2,24.65,486.0
+2027,Chevrolet,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,150.0,1,9.5,20.06,502.0
+2027,Chevrolet,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,150.0,1,9.5,22.15,455.0
+2027,Chevrolet,Small Sport Utility Vehicle 4WD,All-Wheel Drive,220.0,2,9.5,20.27,494.0
+2027,Dodge,Large Cars,All-Wheel Drive,500.0,2,10.0,24.32,430.0
+2027,Dodge,Large Cars,All-Wheel Drive,500.0,2,10.0,27.84,372.0
+2027,Dodge,Large Cars,All-Wheel Drive,500.0,2,10.0,26.95,388.0
+2027,Genesis,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,234.0,2,9.0,23.19,402.0
+2027,Genesis,Small Sport Utility Vehicle 4WD,All-Wheel Drive,234.0,2,9.2,21.86,430.0
+2027,Genesis,Small Sport Utility Vehicle 4WD,All-Wheel Drive,234.0,2,9.2,20.87,454.0
+2027,Genesis,Small Sport Utility Vehicle 4WD,All-Wheel Drive,448.0,2,9.2,26.72,357.0
+2027,Genesis,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,168.0,1,8.1,18.99,492.0
+2027,Vinfast,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,260.0,2,12.0,28.74,412.0
+2027,Vinfast,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,300.0,2,15.0,30.93,462.0
+2027,Hyundai,Small Sport Utility Vehicle 4WD,All-Wheel Drive,239.0,2,8.2,19.68,467.0
+2027,Hyundai,Small Sport Utility Vehicle 4WD,All-Wheel Drive,239.0,2,8.2,21.44,433.0
+2027,Hyundai,Small Sport Utility Vehicle 4WD,All-Wheel Drive,239.0,2,8.2,22.22,417.0
+2027,Hyundai,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,168.0,1,9.1,18.64,512.0
+2027,Hyundai,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,125.0,1,6.3,18.02,394.0
+2027,Hyundai,Midsize Cars,All-Wheel Drive,448.0,2,9.1,23.57,394.0
+2027,Kia,Small Sport Utility Vehicle 4WD,All-Wheel Drive,195.0,2,7.9,20.51,451.0
+2027,Kia,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,150.0,1,8.8,18.02,517.0
+2027,Kia,Small Sport Utility Vehicle 4WD,All-Wheel Drive,215.0,2,8.8,20.51,451.0
+2027,Kia,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,150.0,1,6.2,17.92,356.0
+2027,Lucid,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,618.0,2,9.5,19.32,724.0
+2027,Lucid,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,618.0,2,9.5,20.15,703.0
+2027,Lucid,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,618.0,2,9.5,21.33,655.0
+2027,Lucid,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,618.0,2,9.5,22.65,621.0
+2027,Lucid,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,618.0,2,9.5,21.33,655.0
+2027,Lucid,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,618.0,2,9.5,22.65,621.0
+2027,Lucid,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,618.0,2,9.5,18.85,542.0
+2027,Mercedes-Benz,Compact Cars,Rear-Wheel Drive,200.0,1,8.75,19.26,510.0
+2027,Mercedes-Benz,Compact Cars,All-Wheel Drive,291.0,2,8.75,18.02,502.0
+2027,Mercedes-Benz,Midsize Station Wagons,Rear-Wheel Drive,235.0,1,11.5,22.42,486.0
+2027,Mercedes-Benz,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,400.0,2,14.0,26.72,502.0
+2027,Mercedes-Benz,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,400.0,2,14.0,26.1,510.0
+2027,MINI,Small Sport Utility Vehicle 4WD,All-Wheel Drive,280.0,2,7.0,21.68,344.0
+2027,Rivian,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,434.0,2,15.0,30.97,529.0
+2027,Rivian,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,434.0,2,15.0,29.2,560.0
+2027,Rivian,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,434.0,2,15.0,27.7,597.0
+2027,Rivian,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,416.0,2,12.0,27.57,465.0
+2027,Rivian,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,416.0,2,12.0,26.64,483.0
+2027,Rivian,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,416.0,2,12.0,24.53,529.0
+2027,Rivian,Standard Sport Utility Vehicle 4WD,Part-time 4-Wheel Drive,416.0,2,15.0,26.86,595.0
+2027,Rivian,Standard Sport Utility Vehicle 4WD,Part-time 4-Wheel Drive,416.0,2,15.0,26.08,612.0
+2027,Rivian,Standard Sport Utility Vehicle 4WD,Part-time 4-Wheel Drive,416.0,2,15.0,24.82,660.0
+2027,Rivian,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,648.0,4,14.0,31.13,523.0
+2027,Rivian,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,648.0,4,14.0,29.42,544.0
+2027,Rivian,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,648.0,4,14.0,27.57,602.0
+2027,Rivian,Standard Pickup Trucks 4WD,4-Wheel Drive,434.0,2,15.0,30.97,529.0
+2027,Rivian,Standard Pickup Trucks 4WD,4-Wheel Drive,434.0,2,15.0,29.2,560.0
+2027,Rivian,Standard Pickup Trucks 4WD,4-Wheel Drive,434.0,2,15.0,27.7,597.0
+2027,Rivian,Standard Pickup Trucks 4WD,4-Wheel Drive,416.0,2,12.0,27.57,465.0
+2027,Rivian,Standard Pickup Trucks 4WD,4-Wheel Drive,416.0,2,12.0,26.64,483.0
+2027,Rivian,Standard Pickup Trucks 4WD,4-Wheel Drive,416.0,2,12.0,24.53,529.0
+2027,Rivian,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,416.0,2,15.0,26.86,595.0
+2027,Rivian,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,416.0,2,15.0,26.08,612.0
+2027,Rivian,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,416.0,2,15.0,24.13,676.0
+2027,Rivian,Standard Pickup Trucks 4WD,4-Wheel Drive,648.0,4,14.0,31.13,523.0
+2027,Rivian,Standard Pickup Trucks 4WD,4-Wheel Drive,648.0,4,14.0,29.42,544.0
+2027,Rivian,Standard Pickup Trucks 4WD,4-Wheel Drive,648.0,4,14.0,27.57,602.0
+2027,Subaru,Small Sport Utility Vehicle 4WD,All-Wheel Drive,254.0,2,8.0,17.97,447.0
+2027,Subaru,Small Sport Utility Vehicle 4WD,All-Wheel Drive,254.0,2,8.0,17.37,463.0
+2027,Subaru,Small Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,8.0,18.64,441.0
+2027,Subaru,Small Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,8.0,18.02,452.0
+2027,Subaru,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,167.0,1,8.0,15.95,496.0
+2027,Subaru,Small Sport Utility Vehicle 4WD,All-Wheel Drive,254.0,2,8.0,18.33,439.0
+2027,Subaru,Small Sport Utility Vehicle 4WD,All-Wheel Drive,254.0,2,8.0,18.02,462.0
+2027,Volvo,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,475.0,2,9.0,18.64,531.0
+2027,Volvo,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,275.0,1,8.0,18.55,475.0
+2027,Volvo,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,245.0,1,10.0,22.87,444.0
+2027,Volvo,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,11.0,24.23,483.0
+2027,Volvo,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,11.0,22.99,499.0
+2027,Volvo,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,11.0,24.23,483.0
+2027,Volvo,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,11.0,22.99,499.0
+2027,BMW,Compact Cars,All-Wheel Drive,450.0,2,8.0,21.22,446.0
+2027,BMW,Compact Cars,All-Wheel Drive,450.0,2,8.0,22.27,428.0
+2027,BMW,Compact Cars,All-Wheel Drive,450.0,2,8.0,23.07,417.0
+2027,BMW,Large Cars,All-Wheel Drive,420.0,2,11.0,22.06,600.0
+2027,Chevrolet,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,150.0,1,9.5,19.31,513.0
+2027,Vinfast,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,300.0,2,12.0,28.57,360.0
+2027,Lucid,Large Cars,All-Wheel Drive,611.0,2,13.0,16.42,824.0
+2027,Lucid,Large Cars,All-Wheel Drive,611.0,2,13.0,17.5,772.0
+2027,Lucid,Large Cars,All-Wheel Drive,611.0,2,13.0,18.72,718.0
+2027,Lucid,Large Cars,Rear-Wheel Drive,330.0,1,10.0,14.38,676.0
+2027,Lucid,Large Cars,Rear-Wheel Drive,330.0,1,10.0,16.22,599.0
+2027,Lucid,Large Cars,All-Wheel Drive,950.0,3,13.0,19.97,687.0
+2027,Lucid,Large Cars,All-Wheel Drive,611.0,2,10.0,15.65,694.0
+2027,Lucid,Large Cars,All-Wheel Drive,611.0,2,10.0,16.97,637.0
+2027,Mercedes-Benz,Midsize Station Wagons,All-Wheel Drive,235.0,2,10.75,26.1,407.0
+2027,Mercedes-Benz,Large Cars,All-Wheel Drive,463.0,2,12.75,18.41,713.0
+2027,Mercedes-Benz,Large Cars,All-Wheel Drive,463.0,2,11.5,18.63,698.0
+2027,Mercedes-Benz,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,432.0,4,14.0,29.69,401.0
+2027,Mercedes-Benz,Midsize Station Wagons,All-Wheel Drive,463.0,2,11.5,20.48,533.0
+2027,Mercedes-Benz,Midsize Station Wagons,All-Wheel Drive,463.0,2,11.5,17.54,563.0
+2027,Rolls-Royce,Compact Cars,All-Wheel Drive,550.0,2,11.0,25.57,521.0
+2027,Rolls-Royce,Compact Cars,All-Wheel Drive,550.0,2,11.0,26.84,496.0
+2027,Rolls-Royce,Compact Cars,All-Wheel Drive,550.0,2,11.0,25.57,521.0
+2027,Rolls-Royce,Compact Cars,All-Wheel Drive,550.0,2,11.0,26.84,496.0
+2027,Tesla,Midsize Cars,All-Wheel Drive,296.0,2,12.0,18.79,509.0
+2027,Tesla,Small Sport Utility Vehicle 4WD,All-Wheel Drive,291.0,2,10.4,18.64,528.0
+2027,Toyota,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,124.0,1,6.0,16.05,380.0
+2027,Toyota,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,167.0,1,8.0,15.85,505.0
+2027,Toyota,Small Sport Utility Vehicle 4WD,All-Wheel Drive,254.0,2,8.0,17.4,463.0
+2027,Toyota,Small Sport Utility Vehicle 4WD,All-Wheel Drive,254.0,2,8.0,17.97,447.0
+2027,Toyota,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,167.0,1,8.0,16.69,481.0
+2027,Toyota,Small Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,8.0,18.02,452.0
+2027,Toyota,Small Sport Utility Vehicle 4WD,All-Wheel Drive,416.0,2,8.0,19.0,418.0
+2027,Toyota,Small Sport Utility Vehicle 4WD,All-Wheel Drive,254.0,2,8.0,18.02,462.0
+2027,Volvo,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,475.0,2,9.0,20.15,502.0
+2027,Volvo,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,275.0,1,8.0,17.8,494.0
+2027,Volvo,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,275.0,1,10.0,21.42,468.0
