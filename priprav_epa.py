@@ -1,3 +1,5 @@
+"""Príprava EPA dát o elektromobiloch: výber EV, výkon motorov z evMotor a prevod jednotiek."""
+
 import re
 
 import pandas as pd
